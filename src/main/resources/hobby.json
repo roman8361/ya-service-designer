@@ -1,0 +1,35 @@
+{
+  "id" : "e20ad71d-774a-4122-8aef-50f19a77d8c5",
+  "login" : "admin",
+  "password" : "qwerty",
+  "telephone" : [ "1111", "2222", "3333" ],
+  "hobbyUser" : {
+    "1" : {
+      "11" : {
+        "hobby" : {
+          "111" : "Football",
+          "222" : "Football",
+          "333" : "Football"
+        }
+      }
+    },
+    "2" : {
+      "22" : {
+        "hobby" : {
+          "111" : "Volleyball",
+          "222" : "Volleyball",
+          "333" : "Volleyball"
+        }
+      }
+    },
+    "3" : {
+      "33" : {
+        "hobby" : {
+          "111" : "Basketball",
+          "222" : "Basketball",
+          "333" : "Basketball"
+        }
+      }
+    }
+  }
+}

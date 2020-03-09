@@ -1,0 +1,2198 @@
+{"workers": {
+  "phones": {}, "items": {
+    "f34572ff-8e39-4842-beb3-2498acbb53c7": {
+      "id": "f34572ff-8e39-4842-beb3-2498acbb53c7",
+      "messengerId": "c5ccf21a-f9ef-42e5-975f-788d0196e637",
+      "chatbotId": "c2b0e640-6296-473f-ae8e-3637e0114cf0",
+      "personalInfo": {
+        "description": "Архитектурное бюро ArchPLACE - молодая амбициозная команда профессионалов, оказывающая услуги в дизайне интерьеров и архитектурном проектировании. В нашем портфолио более 50 успешно реализованных проектов. Своей задачей мы ставим создание уютных красивых и функциональных пространств для жизни и бизнеса.",
+        "avatar": "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1380299\u002F2a0000016e63f619be1db24cd1a32b1c059f",
+        "contactTime": {"start": 9, "finish": 23},
+        "education": [],
+        "socialLinks": {
+          "instagram": "https:\u002F\u002Finstagram.com\u002Farchplace.ru\u002F?hl=ru",
+          "facebook": "https:\u002F\u002Ffacebook.com\u002Farchplace.ru\u002F"
+        },
+        "site": "http:\u002F\u002Farchplace.ru",
+        "firstName": "Arch",
+        "lastName": "Place",
+        "displayName": "Arch Place",
+        "phoneId": "292229394",
+        "addressesList": [{"address": "проспект Мира, 119с2", "cityName": "Москва"}],
+        "areasList": [{"is_point": false, "name": "Москва", "geoids": [213]}, {
+          "is_point": false,
+          "name": "Московская область",
+          "geoids": [1]
+        }, {"is_point": false, "name": "Санкт-Петербург", "geoids": [2]}, {
+          "is_point": false,
+          "name": "Казань",
+          "geoids": [43]
+        }, {"is_point": false, "name": "Нижний Новгород", "geoids": [47]}, {
+          "is_point": false,
+          "name": "Екатеринбург",
+          "geoids": [54]
+        }, {"is_point": false, "name": "Ростов-на-Дону", "geoids": [39]}, {
+          "is_point": false,
+          "name": "Пермь",
+          "geoids": [50]
+        }],
+        "emailAgreement": true,
+        "phoneAgreement": true,
+        "showMiddleName": false,
+        "hideLastName": false,
+        "passportPhoto": null,
+        "passportWithFacePhoto": null,
+        "accountType": "org",
+        "companyName": "ArchPLACE"
+      },
+      "seoname": "Archplace-439458",
+      "seonameOld": null,
+      "seoid": "439458",
+      "rating": 5,
+      "lastTimeVisit": "7 ч. назад",
+      "reviewsAmount": 3,
+      "relevantAddress": "Санкт-Петербург",
+      "relevantAddressMatched": true,
+      "achievements": {
+        "directSimpleCert": false,
+        "directSpecCert": false,
+        "specializationCertifications": [],
+        "features": []
+      },
+      "settings": {
+        "orderNotificationsByEmail": false,
+        "orderNotificationsByApp": false,
+        "orderNotificationsFrequency": "day",
+        "contractNotificationsByEmail": false,
+        "contractNotificationsByApp": false,
+        "contractNotificationsByPhone": false,
+        "notificationTimeStart": 0,
+        "notificationTimeFinish": 0,
+        "notificationAroundTheClock": false,
+        "showMyPhone": false,
+        "showMyChat": false,
+        "mainCity": {"name": "Москва"}
+      },
+      "displayOptions": {"hasChat": true, "hasPhone": true},
+      "relevantServicesCount": 2,
+      "occupations": [{
+        "id": "d82df242-67ab-44dc-b1d9-d97dcebf09a7",
+        "rubricId": "\u002Fdizajnery",
+        "attrs": {
+          "experience": 3,
+          "workingDays": ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"],
+          "workStartTime": 9,
+          "workFinishTime": 23
+        },
+        "name": "Дизайнеры",
+        "specializations": [{
+          "id": "6cfa2481-ad49-4970-a299-670eb9585b27",
+          "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+          "attrs": {
+            "experience": 4,
+            "isAddressAllowed": true,
+            "isAbleToDeparture": true,
+            "isRemoteAllowed": true,
+            "workingDays": ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"],
+            "workStartTime": 9,
+            "workFinishTime": 21
+          },
+          "occupationId": "\u002Fdizajnery",
+          "name": "Дизайнеры интерьеров",
+          "numberId": 258,
+          "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov",
+          "specialistName": "Студия дизайна интерьеров",
+          "services": [{
+            "id": "94b853f2-aa2a-4fdc-a909-6e6e44f8fe75",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Favtorskij-nadzor",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Авторский надзор в дизайне интерьеров",
+              "price": 1,
+              "priceMeasure": "service",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Авторский надзор в дизайне интерьеров",
+            "numberId": 259,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Favtorskij-nadzor"
+          }, {
+            "id": "14c68fe9-78df-4c3e-a4fd-fad3a9e7e63c",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-restorana",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "description": "Дизайн-проект интерьера ресторанов, кафе, ресторанных двориков.",
+              "name": "Дизайн-проект интерьера ресторана",
+              "price": 1000,
+              "priceMeasure": "service",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016e64292ddd3873503ef136559302", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016e64296142d5f2630946271268de", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016e64299b132b6910f849b3963aba"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера ресторана",
+            "numberId": 264,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-restorana"
+          }, {
+            "id": "fa8950f4-5c33-4f5c-ac1b-6d64dcc6f81a",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-kvartiry",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "description": "Индивидуальный дизайн-проект ваших квартир!",
+              "name": "Дизайн-проект интерьера квартиры",
+              "price": 1000,
+              "priceMeasure": "service",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016e642cc42d8513a072c167ba4c71", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016e642d0ed6c81d59bc3874ce7318", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016e642d430080b14dcedd31a1825f", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016e642d69e26fb3876a85bd815d8c"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера квартиры",
+            "numberId": 261,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-kvartiryi"
+          }, {
+            "id": "a8cab3d0-bb6b-477e-b4e1-92fba70d66cc",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-doma",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайн-проект интерьера дома",
+              "price": 1000,
+              "priceMeasure": "service",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016e642f3dc8ccadae0e873dd08872"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера дома",
+            "numberId": 260,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-doma"
+          }, {
+            "id": "25143cc6-f82e-4ec4-a8fd-07f1f7008017",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-magazina",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайн-проект интерьера магазина",
+              "price": 1000,
+              "priceMeasure": "service",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера магазина",
+            "numberId": 262,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-magazina"
+          }]
+        }, {
+          "id": "fa3f61fb-365f-4399-9800-86b616b1468d",
+          "rubricId": "\u002Fdizajnery\u002Flandsaftnyj-dizajner",
+          "attrs": {
+            "experience": 3,
+            "isAddressAllowed": true,
+            "isAbleToDeparture": true,
+            "isRemoteAllowed": true,
+            "workingDays": ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"],
+            "workStartTime": 9,
+            "workFinishTime": 23
+          },
+          "occupationId": "\u002Fdizajnery",
+          "name": "Услуги ландшафтных дизайнеров",
+          "numberId": 273,
+          "seoId": "\u002Fdizajneryi\u002Flandshaftnyij-dizajner",
+          "specialistName": "Студия ландшафтного дизайна",
+          "services": [{
+            "id": "dfbb081f-0ba7-441c-a010-d05115f2e9e3",
+            "rubricId": "\u002Fdizajnery\u002Flandsaftnyj-dizajner\u002Fproekt-landsaftnogo-dizajna",
+            "specializationId": "\u002Fdizajnery\u002Flandsaftnyj-dizajner",
+            "attrs": {
+              "name": "Проект ландшафтного дизайна",
+              "price": 6000,
+              "priceMeasure": "service",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Flandsaftnyj-dizajner",
+            "name": "Проект ландшафтного дизайна",
+            "numberId": 277,
+            "seoId": "\u002Fdizajneryi\u002Flandshaftnyij-dizajner\u002Fproekt-landshaftnogo-dizajna"
+          }]
+        }]
+      }],
+      "ydoWorkerId": "f34572ff-8e39-4842-beb3-2498acbb53c7",
+      "permalink": 162635835625,
+      "isBoosted": false,
+      "geometry": {
+        "type": "Point",
+        "name": "проспект Мира, 119с2",
+        "id": "37.63142395019531,55.828460693359375",
+        "coordinates": [37.63142395019531, 55.828460693359375]
+      },
+      "isDocDoc": false,
+      "isPartner": false,
+      "isAdvertised": false
+    }, "447389ad-a2b2-402c-a9f9-61e9ebd5eb64": {
+      "id": "447389ad-a2b2-402c-a9f9-61e9ebd5eb64",
+      "messengerId": "c960c60f-1474-49d8-90df-e8ba0a4a0d67",
+      "chatbotId": "2d2fdb67-208e-4065-8e69-01ae392ededa",
+      "personalInfo": {
+        "description": " Приветствую Вас у себя в профиле!\nЯ дизайнер интерьера. Живу в Санкт-Петербурге. Работаю в Санкт-Петербурге и Москве.\nЗанимаюсь проектированием интерьеров квартир и домов любой сложности.\n- Опыт работы  более 10 лет.\nРазработка дизайн-проектов интерьеров жилых и общественных помещений.\nПолный комплекс услуг:\n- эскизный проект,\n- 3d визуализация,\n- рабочая документация,\n- авторский надзор.\nКачество, творческий подход, строгое соблюдение сроков",
+        "avatar": "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1380299\u002F2a0000016a2f21c1fe203921e27497f66d04",
+        "dob": "1970-04-01",
+        "gender": "female",
+        "contactTime": {"start": 11, "finish": 24},
+        "education": ["Дизайнер интерьера"],
+        "socialLinks": {
+          "vk": "https:\u002F\u002Fvk.com\u002Fpublic165291942",
+          "instagram": "https:\u002F\u002Finstagram.com\u002Fmalakhova_designer\u002F",
+          "facebook": "https:\u002F\u002Ffacebook.com\u002Felena.malahova.900"
+        },
+        "firstName": "Елена",
+        "lastName": "Малахова",
+        "displayName": "Елена Малахова",
+        "phoneId": "306115077",
+        "addressesList": [],
+        "areasList": [{"is_point": false, "name": "Санкт-Петербург", "geoids": [2]}, {
+          "is_point": false,
+          "name": "Ленинградская область",
+          "geoids": [10174]
+        }, {"is_point": false, "name": "Москва", "geoids": [213]}],
+        "emailAgreement": true,
+        "phoneAgreement": true,
+        "showMiddleName": false,
+        "hideLastName": false,
+        "passportPhoto": null,
+        "passportWithFacePhoto": null,
+        "accountType": "person"
+      },
+      "seoname": "ElenaMalakhova-133308",
+      "seonameOld": "ElenaMalakhova",
+      "seoid": "133308",
+      "rating": 0,
+      "lastTimeVisit": "4 д. назад",
+      "reviewsAmount": 0,
+      "relevantAddress": "Санкт-Петербург",
+      "relevantAddressMatched": true,
+      "achievements": {
+        "directSimpleCert": false,
+        "directSpecCert": false,
+        "specializationCertifications": [],
+        "features": []
+      },
+      "settings": {
+        "orderNotificationsByEmail": false,
+        "orderNotificationsByApp": false,
+        "orderNotificationsFrequency": "day",
+        "contractNotificationsByEmail": false,
+        "contractNotificationsByApp": false,
+        "contractNotificationsByPhone": false,
+        "notificationTimeStart": 0,
+        "notificationTimeFinish": 0,
+        "notificationAroundTheClock": false,
+        "showMyPhone": false,
+        "showMyChat": false
+      },
+      "displayOptions": {"hasChat": true, "hasPhone": true},
+      "relevantServicesCount": 2,
+      "occupations": [{
+        "id": "9d0d2ea6-2d4c-466b-bd9e-a98cdcfcc007",
+        "rubricId": "\u002Fdizajnery",
+        "attrs": {
+          "experience": 11,
+          "workingDays": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "workStartTime": 11,
+          "workFinishTime": 20
+        },
+        "name": "Дизайнеры",
+        "specializations": [{
+          "id": "6abfa5d7-73d2-433e-ab1c-ade5e2152dfd",
+          "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+          "attrs": {
+            "experience": 11,
+            "isRemoteAllowed": true,
+            "workingDays": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+            "workStartTime": 11,
+            "workFinishTime": 20,
+            "description": "Полный спектр услуг от создания, до реализации дизайн-проекта."
+          },
+          "occupationId": "\u002Fdizajnery",
+          "name": "Дизайнеры интерьеров",
+          "numberId": 258,
+          "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov",
+          "specialistName": "Дизайнер интерьеров",
+          "services": [{
+            "id": "eeaf6cb8-de63-465d-9384-da49b18068b1",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-doma",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "description": "Проектирование интерьера дома от идеи к воплощению.",
+              "name": "Дизайн-проект интерьера дома",
+              "price": 1500,
+              "priceMeasure": "km",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1384592\u002F2a0000016d0cf90e9495881ae7329c2caf76", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1540809\u002F2a0000016d0cf97b9957b02d28615c040312", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1384592\u002F2a0000016d0cf9d4534604a7de638a8db07d", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1540809\u002F2a0000016d0cfa02c3fe49d1f6c7a6688e7b", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016ec8881acc555b7c766d2f8a4f03", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016ec8881a811e656fb6d8629f9b00"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера дома",
+            "numberId": 260,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-doma"
+          }, {
+            "id": "7bd3282c-ce68-4eed-91bc-01f42f17d4a7",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-kvartiry",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "description": "Дизайн-проект от 500 руб.м2  до 1500 руб.м2",
+              "name": "Дизайн-проект интерьера квартиры",
+              "price": 1500,
+              "priceMeasure": "m",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1449941\u002F2a0000016717d6abe6c35a9d0a83dc7ae357", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a00000169fc560398c63a40721bb2c916a7", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1817195\u002F2a00000169fc56217ebe13c28621cccbf0a4", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1449941\u002F2a00000169fc564b6dcc90b5a34fe2a3badd", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1523397\u002F2a00000169fc564cfe238de372a5e17568e2", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1523397\u002F2a00000169fc566aed448b202701b05f58f7", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1540809\u002F2a0000016b54b08b01fe6a16abbcb2317d1c", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1449941\u002F2a0000016b54b0cd2126e8faecf44528b7db", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016ec8873c6d6a2f9fe77a9a4c9082", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016ec887419bacf6f9ba9f64bf825c", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016ec887424fe2de7656fabbc83832"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера квартиры",
+            "numberId": 261,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-kvartiryi"
+          }]
+        }]
+      }],
+      "ydoWorkerId": "447389ad-a2b2-402c-a9f9-61e9ebd5eb64",
+      "permalink": null,
+      "isBoosted": false,
+      "isDocDoc": false,
+      "isPartner": false,
+      "isAdvertised": false
+    }, "103f12ca-c386-4787-b9ae-d353d6662bb2": {
+      "id": "103f12ca-c386-4787-b9ae-d353d6662bb2",
+      "messengerId": "15e6d13e-1fcc-4da5-879f-f4d1de657c2e",
+      "chatbotId": "2d0d9ada-09b9-4422-a36c-dda39187e37a",
+      "personalInfo": {
+        "description": "Проектирование и дизайн жилых и общественных помещений.\nСоздаю уютные интерьеры. \nИндивидуальный подход к каждому проекту!",
+        "avatar": "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a0000016b7a61c919b3b6bf9e74bb596711",
+        "dob": "1992-09-01",
+        "gender": "female",
+        "contactTime": {"start": 10, "finish": 20},
+        "education": [],
+        "socialLinks": {"instagram": "https:\u002F\u002Finstagram.com\u002Fnastasia_design1092\u002F"},
+        "firstName": "Анастасия",
+        "lastName": "Грибова",
+        "displayName": "Анастасия Грибова",
+        "phoneId": "351136711",
+        "addressesList": [],
+        "areasList": [{"is_point": false, "name": "Уфа", "geoids": [172]}, {
+          "is_point": false,
+          "name": "Самара",
+          "geoids": [51]
+        }, {"is_point": false, "name": "Москва", "geoids": [213]}, {
+          "is_point": false,
+          "name": "Санкт-Петербург",
+          "geoids": [2]
+        }, {"is_point": false, "name": "Оренбург", "geoids": [48]}],
+        "emailAgreement": false,
+        "phoneAgreement": true,
+        "showMiddleName": false,
+        "hideLastName": false,
+        "passportPhoto": null,
+        "passportWithFacePhoto": null,
+        "accountType": "person"
+      },
+      "seoname": "AnastasiyaGribova-289480",
+      "seonameOld": null,
+      "seoid": "289480",
+      "rating": 0,
+      "lastTimeVisit": "",
+      "reviewsAmount": 0,
+      "relevantAddress": "Санкт-Петербург",
+      "relevantAddressMatched": true,
+      "achievements": {
+        "directSimpleCert": false,
+        "directSpecCert": false,
+        "specializationCertifications": [],
+        "features": []
+      },
+      "settings": {
+        "orderNotificationsByEmail": false,
+        "orderNotificationsByApp": false,
+        "orderNotificationsFrequency": "day",
+        "contractNotificationsByEmail": false,
+        "contractNotificationsByApp": false,
+        "contractNotificationsByPhone": false,
+        "notificationTimeStart": 0,
+        "notificationTimeFinish": 0,
+        "notificationAroundTheClock": false,
+        "showMyPhone": false,
+        "showMyChat": false
+      },
+      "displayOptions": {"hasChat": true, "hasPhone": true},
+      "relevantServicesCount": 2,
+      "occupations": [{
+        "id": "b0d25f36-14ac-43c3-9b3c-f37628cf9c5b",
+        "rubricId": "\u002Fdizajnery",
+        "attrs": {
+          "experience": 7,
+          "workingDays": ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday"],
+          "workStartTime": 10,
+          "workFinishTime": 20
+        },
+        "name": "Дизайнеры",
+        "specializations": [{
+          "id": "eb9ca584-ad56-48eb-8fb1-d0b9005da0be",
+          "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+          "attrs": {
+            "experience": 7,
+            "isAddressAllowed": true,
+            "isRemoteAllowed": true,
+            "workingDays": ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday"],
+            "workStartTime": 10,
+            "workFinishTime": 20
+          },
+          "occupationId": "\u002Fdizajnery",
+          "name": "Дизайнеры интерьеров",
+          "numberId": 258,
+          "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov",
+          "specialistName": "Дизайнер интерьеров",
+          "services": [{
+            "id": "c7ff552b-09fa-4ed2-8db3-93e12024010b",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-kvartiry",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "description": "Проектирование и дизайн жилых и общественных помещений от 750 р\u002Fкв.м. по полу. Включает в себя реалистичную 3д визуализацию+ альбом рабочих чертежей+ сметы по чистовым отделочным материалам.",
+              "name": "Дизайн-проект интерьера квартиры",
+              "price": 750,
+              "priceMeasure": "service",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1380299\u002F2a0000016b7a67c678c97292e9e8f6ee57b1", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016b7a67ca566eb9e0e684fb416c34", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1817195\u002F2a0000016b7a67d01dde133cc250d75750f3", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1449941\u002F2a0000016b7a67d1d7c7b1013eb9f839cb60", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016b7a67d5d75fca8d8399b3668e56"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера квартиры",
+            "numberId": 261,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-kvartiryi"
+          }, {
+            "id": "7eb93e82-1fdb-4ef7-a9c9-393d4c0f0509",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-doma",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "description": "Проектирование, дизайн жилых и общественных помещений от 750р\u002Fкв.м. по полу. Включает в себя реалистичную 3д визуализацию+ альбом рабочих чертежей.",
+              "name": "Дизайн-проект интерьера дома",
+              "price": 750,
+              "priceMeasure": "service",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016b7a6978ee379d2fea077e483eaf", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1449941\u002F2a0000016b7a697e951c580d20c3f829cf32", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1384592\u002F2a0000016b7a69846e7997387d7f18179691", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1523397\u002F2a0000016b7a698a5e6901eb3013d2442c1d", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1380299\u002F2a0000016b7a698e696243b03a61d1e71131", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016b7a6a3036a3d287e7fdb36d9ead", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1449941\u002F2a0000016b7a6a351b5f1b6720be85131618"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера дома",
+            "numberId": 260,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-doma"
+          }, {
+            "id": "e7c52895-2ed5-42d5-919e-c301826d90b2",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-magazina",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "description": "Проектирование и дизайн общественных помещений от 750р\u002Fкв.м. по полу. Включает в себя реалистичную 3д визуализацию+ альбом рабочих чертежей. сметы по чистовым отделочным материалам.",
+              "name": "Дизайн-проект интерьера магазина",
+              "price": 750,
+              "priceMeasure": "service",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера магазина",
+            "numberId": 262,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-magazina"
+          }, {
+            "id": "ee1e8e01-cb54-415d-8289-884a63150cc3",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-restorana",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "description": "Проектирование и дизайн жилых и общественных помещений от 750р\u002Fкв.м. по полу. Включает в себя реалистичную 3д визуализацию+ альбом рабочих чертежей+ сметы по чистовым отделочным материалам.",
+              "name": "Дизайн-проект интерьера ресторана",
+              "price": 750,
+              "priceMeasure": "service",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера ресторана",
+            "numberId": 264,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-restorana"
+          }]
+        }]
+      }],
+      "ydoWorkerId": "103f12ca-c386-4787-b9ae-d353d6662bb2",
+      "permalink": null,
+      "isBoosted": false,
+      "isDocDoc": false,
+      "isPartner": false,
+      "isAdvertised": false
+    }, "22ff145b-79b4-4acb-b162-f51e8b39ed8a": {
+      "id": "22ff145b-79b4-4acb-b162-f51e8b39ed8a",
+      "messengerId": "ca628d96-c8e4-40bf-b862-103e83a28af4",
+      "chatbotId": "b047e3c7-a791-4669-9aa0-27a9d6e6d267",
+      "personalInfo": {
+        "description": "Я дизайнер. Хорошо владею 3д визуализациией! С радостью создам для вас интерьер любой сложности. Любую задумку и идею смогу воплотить в проект. Подскажу, объясню, как лучше сделать ту или иную вещь лучше, чтобы увеличить функциональность для человека. Если сроки вышли вчера, не беда всегда смогу вам помочь! ",
+        "avatar": "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1449941\u002F2a0000016da87531df1c1c72dd9e92ff751d",
+        "dob": "2000-04-29",
+        "gender": "female",
+        "contactTime": {"start": 10, "finish": 2},
+        "education": ["Архитектор "],
+        "socialLinks": {},
+        "firstName": "Анна",
+        "lastName": "С.",
+        "displayName": "Анна С.",
+        "phoneId": "282999961",
+        "addressesList": [],
+        "areasList": [{"is_point": false, "name": "Орёл", "geoids": [10]}, {
+          "is_point": false,
+          "name": "Брянск",
+          "geoids": [191]
+        }, {"is_point": false, "name": "Москва", "geoids": [213]}, {
+          "is_point": false,
+          "name": "Санкт-Петербург",
+          "geoids": [2]
+        }, {"is_point": false, "name": "Воронеж", "geoids": [193]}, {
+          "is_point": false,
+          "name": "Курск",
+          "geoids": [8]
+        }, {"is_point": false, "name": "Волгоград", "geoids": [38]}],
+        "emailAgreement": true,
+        "phoneAgreement": true,
+        "showMiddleName": false,
+        "hideLastName": true,
+        "passportPhoto": null,
+        "passportWithFacePhoto": null,
+        "accountType": "person"
+      },
+      "seoname": "AnnaS-388957",
+      "seonameOld": null,
+      "seoid": "388957",
+      "rating": 0,
+      "lastTimeVisit": "2 д. назад",
+      "reviewsAmount": 0,
+      "relevantAddress": "Санкт-Петербург",
+      "relevantAddressMatched": true,
+      "achievements": {
+        "directSimpleCert": false,
+        "directSpecCert": false,
+        "specializationCertifications": [],
+        "features": []
+      },
+      "settings": {
+        "orderNotificationsByEmail": false,
+        "orderNotificationsByApp": false,
+        "orderNotificationsFrequency": "day",
+        "contractNotificationsByEmail": false,
+        "contractNotificationsByApp": false,
+        "contractNotificationsByPhone": false,
+        "notificationTimeStart": 0,
+        "notificationTimeFinish": 0,
+        "notificationAroundTheClock": false,
+        "showMyPhone": false,
+        "showMyChat": false
+      },
+      "displayOptions": {"hasChat": true, "hasPhone": true},
+      "relevantServicesCount": 2,
+      "occupations": [{
+        "id": "e3e3ce4c-e97a-49dd-a96c-9475a5be60c8",
+        "rubricId": "\u002Fdizajnery",
+        "attrs": {
+          "experience": 3,
+          "workingDays": ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"],
+          "workStartTime": 11,
+          "workFinishTime": 21
+        },
+        "name": "Дизайнеры",
+        "specializations": [{
+          "id": "b18e85ea-cd3a-4f8c-ba55-8d57ef1bd8e9",
+          "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+          "attrs": {
+            "experience": 3,
+            "isRemoteAllowed": true,
+            "workingDays": ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"],
+            "workStartTime": 11,
+            "workFinishTime": 21
+          },
+          "occupationId": "\u002Fdizajnery",
+          "name": "Дизайнеры интерьеров",
+          "numberId": 258,
+          "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov",
+          "specialistName": "Дизайнер интерьеров",
+          "services": [{
+            "id": "183fce66-9cfa-4e06-ac1a-2010087765ca",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-kvartiry",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайн-проект интерьера квартиры",
+              "price": 350,
+              "priceMeasure": "m",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера квартиры",
+            "numberId": 261,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-kvartiryi"
+          }, {
+            "id": "9f175fde-1837-44f3-8a9e-554b97e04118",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-doma",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайн-проект интерьера дома",
+              "price": 350,
+              "priceMeasure": "m",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера дома",
+            "numberId": 260,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-doma"
+          }, {
+            "id": "8240cddd-6e01-4822-8da2-54f8321ae02e",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-magazina",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайн-проект интерьера магазина",
+              "price": 350,
+              "priceMeasure": "m",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера магазина",
+            "numberId": 262,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-magazina"
+          }, {
+            "id": "d9c7accc-781b-4410-9f8a-128c0fc9828b",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-restorana",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайн-проект интерьера ресторана",
+              "price": 350,
+              "priceMeasure": "m",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера ресторана",
+            "numberId": 264,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-restorana"
+          }, {
+            "id": "97529f62-c268-4c59-932e-3ec1af3bb131",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fpodbor-materialov-i-mebeli",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайнерский подбор материалов и мебели",
+              "price": 250,
+              "priceMeasure": "m",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайнерский подбор материалов и мебели",
+            "numberId": 265,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fpodbor-materialov-i-mebeli"
+          }]
+        }]
+      }],
+      "ydoWorkerId": "22ff145b-79b4-4acb-b162-f51e8b39ed8a",
+      "permalink": null,
+      "isBoosted": false,
+      "isDocDoc": false,
+      "isPartner": false,
+      "isAdvertised": false
+    }, "a9b2cc12-e501-4ab6-afa0-ac424c6693fc": {
+      "id": "a9b2cc12-e501-4ab6-afa0-ac424c6693fc",
+      "chatbotId": "ba592572-b32b-4a0d-90ba-0e8be22a11a6",
+      "personalInfo": {
+        "description": "Мы семейная дизайн студия ARTTUNDRA. \nМы профессиональные архитекторы-дизайнеры и все свои проекты ведем лично.\nПолный дизайн-проект вашего интерьера с 3D визуализацией,\nчертежами и подбором мебели и материалов - все что нужно для удачного ремонта!",
+        "avatar": "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016fc8678acfe5ef26ee32d5756182",
+        "education": [],
+        "socialLinks": {
+          "instagram": "https:\u002F\u002Finstagram.com\u002Farttundra\u002F",
+          "facebook": "https:\u002F\u002Ffacebook.com\u002Fgroups\u002Farttundra\u002F"
+        },
+        "site": "http:\u002F\u002Farttundra.ru",
+        "firstName": "Евгения",
+        "lastName": "Потапова",
+        "displayName": "Евгения Потапова",
+        "phoneId": "26344714",
+        "addressesList": [{"address": "метро Сходненская", "cityName": "Москва"}],
+        "areasList": [{"is_point": false, "name": "Москва", "geoids": [213]}, {
+          "is_point": false,
+          "name": "Санкт-Петербург",
+          "geoids": [2]
+        }, {"is_point": false, "name": "Нижний Новгород", "geoids": [47]}, {
+          "is_point": false,
+          "name": "Сочи",
+          "geoids": [239]
+        }, {"is_point": false, "name": "Симферополь", "geoids": [146]}, {
+          "is_point": false,
+          "name": "Севастополь",
+          "geoids": [959]
+        }, {"is_point": false, "name": "Краснодар", "geoids": [35]}, {
+          "is_point": false,
+          "name": "Красногорск",
+          "geoids": [10735]
+        }, {"is_point": false, "name": "Краснодарский край", "geoids": [10995]}, {
+          "is_point": false,
+          "name": "Новосибирск",
+          "geoids": [65]
+        }, {"is_point": false, "name": "Ярославль", "geoids": [16]}, {
+          "is_point": false,
+          "name": "Владимир",
+          "geoids": [192]
+        }, {"is_point": false, "name": "Суздаль", "geoids": [10671]}, {
+          "is_point": false,
+          "name": "Тверь",
+          "geoids": [14]
+        }, {"is_point": false, "name": "Воронеж", "geoids": [193]}],
+        "emailAgreement": true,
+        "phoneAgreement": true,
+        "showMiddleName": false,
+        "hideLastName": false,
+        "passportPhoto": null,
+        "passportWithFacePhoto": null,
+        "accountType": "org",
+        "companyName": "Дизайн студия ARTTUNDRA"
+      },
+      "seoname": "DizajnStudiyaArttundra-552094",
+      "seonameOld": null,
+      "seoid": "552094",
+      "rating": 0,
+      "lastTimeVisit": "4 д. назад",
+      "reviewsAmount": 0,
+      "relevantAddress": "Санкт-Петербург",
+      "relevantAddressMatched": true,
+      "achievements": {
+        "directSimpleCert": false,
+        "directSpecCert": false,
+        "specializationCertifications": [],
+        "features": []
+      },
+      "settings": {
+        "orderNotificationsByEmail": false,
+        "orderNotificationsByApp": false,
+        "orderNotificationsFrequency": "day",
+        "contractNotificationsByEmail": false,
+        "contractNotificationsByApp": false,
+        "contractNotificationsByPhone": false,
+        "notificationTimeStart": 0,
+        "notificationTimeFinish": 0,
+        "notificationAroundTheClock": false,
+        "showMyPhone": false,
+        "showMyChat": false,
+        "mainCity": {"name": "Москва"}
+      },
+      "displayOptions": {"hasChat": true, "hasPhone": true},
+      "relevantServicesCount": 2,
+      "occupations": [{
+        "id": "523a3489-8037-4db3-94a4-a4ee26c48e47",
+        "rubricId": "\u002Fdizajnery",
+        "attrs": {
+          "experience": 11,
+          "workingDays": ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"],
+          "workStartTime": 10,
+          "workFinishTime": 23
+        },
+        "name": "Дизайнеры",
+        "specializations": [{
+          "id": "249e28c4-61c3-4fe2-a70e-bae74c6294bd",
+          "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+          "attrs": {
+            "experience": 11,
+            "isAbleToDeparture": true,
+            "isRemoteAllowed": true,
+            "workingDays": ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"],
+            "workStartTime": 10,
+            "workFinishTime": 23,
+            "description": "Мы с пониманием относимся к занятости наших заказчиков, поэтому встречи проводим как в будни, и в вечернее время в том числе, так и в выходные дни.\nНаша дизайн студия ARTTUNDRA, не берет дополнительную плату за замеры!\nВозможны предварительные встречи, для знакомства, обсуждения деталей и т.д."
+          },
+          "occupationId": "\u002Fdizajnery",
+          "name": "Дизайнеры интерьеров",
+          "numberId": 258,
+          "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov",
+          "specialistName": "Студия дизайна интерьеров",
+          "services": [{
+            "id": "7ae39ce1-c7dc-4de6-929b-c5ed997a12bf",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Favtorskij-nadzor",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "description": "АВТОРСКИЙ НАДЗОР \n\nСтоимость услуги от  50 000 руб в месяц, зависит от площади объекта.\n\n-внесение в рабочие чертежи корректировок, возникших после возведения новых перегородок, после выравнивания полов, стен и потолков; \n\n-внесение разъяснений по дизайн-проекту прорабу строительной бригады; \n\n- консультации и контроль за соблюдением выполнения данного дизайн - проекта на основе проектной документации; \n\n- коммуникация с подрядчиками на объекте. ",
+              "name": "Авторский надзор в дизайне интерьеров",
+              "price": 50000,
+              "priceMeasure": "service",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf5691c5b19c59cb82101649aa", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016faf56ecbe5e6a0e02e9fea0ffe8", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a0000016faf57162a8d1c278f0f24fd4fb5", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a0000016faf573ac367e55a87d8acb3798d", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a0000016faf5786e26f3e3e626516fe65b0", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf579ef79c09af03a2429b2efd", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016faf57d0672be7cb13d96d0cc65d", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016faf57f1cf2e6fb19b3bdab74952", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2426891\u002F2a0000016faf5810676723224545cec49b97", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf5827b76f2993b125cb7eb5e3", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016faf583d2d60cebbad36e083ac42", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2426891\u002F2a0000016faf58779f575be2e9a21e215ed7", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016faf58acfc4fbb7940501f2ff8d6", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2426891\u002F2a0000016faf58ecce539f28b1826ada5dd3", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016faf5916b82d6d50971dc32193fa", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016faf5943684c25534a8dca98ac2c", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016faf597084f568dc3a71417cf9d2", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2426891\u002F2a0000016faf5985dd590810b521ce11aa4f", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf59d0f554771c3567ffc8375d"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Авторский надзор в дизайне интерьеров",
+            "numberId": 259,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Favtorskij-nadzor"
+          }, {
+            "id": "b63f8e1d-7d46-43b9-a33c-d97943d4be37",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-kvartiry",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "description": "Мы занимаемся дизайном интерьера уже более 10 лет.\nТакой большой опыт дает нам не просто знание, а умение следить за новыми тенденциями, воплощать их в наших проектах, но при этом создавать универсальные интерьеры, которые остаются функциональными, уютными и актуальными на протяжении достаточного периода времени, что особенно важно в подходе к созданию интерьера и ремонта в России.",
+              "name": "Дизайн-проект интерьера квартиры",
+              "price": 3000,
+              "priceMeasure": "m",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a0000016faf8b1d44f42d6c31443fbb30bd", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016faf8b1d5fe068a616ab66df9ba2", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016faf8b1d9de937d6017985ed0b9a", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016faf8b1e358bc00e197a9b95e4b4", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016faf8b1df430e6759353abf293bc", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016faf8b20dec1a3f220a39595eb89", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016faf8bce72caa912f3d4aab707a9", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016faf8bce6b055f6c8055a0c308f6", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016faf8bcf3fef687a2f6da10dcb9b", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf8bceb8fd8fe7878509cd458f", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2426891\u002F2a0000016faf8bceffcaa2c6bffb41666627", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016faf8bd26281ff28881aa4b6b6e0", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016faf8bd33f53584b3797164dd027", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a0000016faf8bd33752ba402724db5f98f6", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016faf8bd48dc1f43d9ce075eb2741", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016faf8bd52583fa78f6b068a00028", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016faf8bd5733d142a207e4447c7ae", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2426891\u002F2a0000016faf8bd8803fd59a3c73fd0e445b", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf8bda0ccfe03d572ff7a4128d", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf8bd9e84d0d4396ed4ce14e15", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016faf8c293020aaa9b1fedca2a4e9", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a0000016faf8c29107ddcfcd89558abd6c5", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2426891\u002F2a0000016faf8c2972f8aa1e57842036df1e", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016faf8c2a35848960135a97a53a17", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf8c2a02a979118697d20f4a13", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf8c2cc475ceaacfb152b964ba", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a0000016faf8c2cb8b57ef8b761f61a095b", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a0000016faf8c2d7058a25cd3672699337e", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016faf8c2e39c81ab15a2b1072b0e9", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016faf8c2dee4a8e5f5e8507ae6a1d", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1523397\u002F2a0000016faf8c308a0e9d66cef3ac0bbbc1", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016faf8c30268f721f0819a6150920", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016faf8c3273ad2e42e465871679bf", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf8c3389abcbd5de86ab661065", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf8c325d4e01b84d5f83bc919b", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016faf8c36ce0802008c07c4d38b1c", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016faf8ccaf95b4c823363942239b9", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf8ccb10eaa411fc16525d3f7d", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2426891\u002F2a0000016faf8ccb9c57d6ec7c460f68f0f1", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf8ccbaee26b811f82ee050f2c", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016faf8ccbc4941cc8aee6a9db086c", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a0000016faf8ccdfdcc54ecaa4b06b4c030", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016faf8cce4f8459fe3344b980b6ee", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016faf8cceff073cede26d968d0e9f", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016faf8ccf567ec5299c8d3b95ce42", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016faf8ccf844ada6f4b23f7b89ea5", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016faf8cd132f094028b8a305b8d47", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf8cd11b0c5fee134654110d71", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016faf8cd1b5988fe790aa4b5e12ca", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016faf8cd26979960c65e0bf405b58", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf8cd3bca526d34f03dad832f5", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a0000016faf8cd41133e0483151c041c876", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016faf8d76324fca66ad1049aa3d13", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf8d75dc5248e0b8a9316a0879", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016faf8d75fae301b7827b1708df17", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2426891\u002F2a0000016faf8d767f07dabb35ddd65a0739", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016faf8d76ead8696cb5bd3f2934f9", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2426891\u002F2a0000016faf8d797aeaa155b5a6ef423fac", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a0000016faf8d79b76e8359d75eb04fda40", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016faf8d794995d5aedaf4f1883345", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1523397\u002F2a0000016faf8d7af38a0fd6e07dc0ffd58e", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016faf8d7998e0f675adc4caae2992", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016faf8d7cf4a5bec6b2ea93f30435", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016faf8d7ce85ef5f86fe551430923", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2426891\u002F2a0000016faf8d7d92eb5cd42cbeaa59c29d"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера квартиры",
+            "numberId": 261,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-kvartiryi"
+          }, {
+            "id": "6da0184c-746f-41cf-a9c5-918bc6c12e4e",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-doma",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "description": "Наша дизайн студия - ARTTUNDRA, работает с домами, коттеджами, таунхаусами. \nМы осуществляем комплексную реализацию проекта , решая все вопросы на каждом из этапов создания интерьера.\n\nМы делаем проекты в элитных жилых комплексах и загородных домах Москвы и области, а также во всех городах России.",
+              "name": "Дизайн-проект интерьера дома",
+              "price": 2500,
+              "priceMeasure": "m",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a0000016faf8e2e8d1d9f35f3f70cb4faf2", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016faf8e2ea0266d6af2c86aba9a40", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2426891\u002F2a0000016faf8e2f16d13641fbe73fac26ca", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2426891\u002F2a0000016faf8e2f29b8f53d53f82796eadd", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a0000016faf8e2f4ea00ea795a31f2c0d1e", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016faf8e32cf0ea7075450270ef939", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf8e335688a84455ff3e34f729", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf8e3305d746345a425e832333", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1523397\u002F2a0000016faf8e335b593791a56317b4d544", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a0000016faf8e32eb72783b8dca6a66ff43", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1523397\u002F2a0000016faf8e3664f25745c69f7bfe541f", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016faf8e365a5ae77d0bca5f0ef57d", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016faf8e3737a5837647585f0d4f3e", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2426891\u002F2a0000016faf8e36ed993a454b7808da3a01", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf8e3839a4616824200f4bf74e", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2426891\u002F2a0000016faf8e39e60d6d0d5525a7ae93b4", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2426891\u002F2a0000016faf8e3ac5a7f7a8601e7b3fba79", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016faf8e3b6eff8e05e1676ea2b2bb", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016faf8ec9f787125997d56aa02d80", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a0000016faf8eca0dbb1b5bd240e5a0d775", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a0000016faf8eca1400a4ed2f950c95c50d", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016faf8eca2eb63199b2ef33e52aa3", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf8eca8da9c23662c5fe97cfa9", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1523397\u002F2a0000016faf8ecc41eb7c9043a0b05c1514", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016faf8eccbc3f0b9e28576781383b", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016faf8eccaba7e475f90b668b4f86", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2426891\u002F2a0000016faf8ecd78ded2b3514f0e71e3b2", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016faf8ed011313a37bbd5726fa916", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016faf8ed0a6d59897593a2867236c", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf8ed08314f86dd48b97a55302", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a0000016faf8ed09207cbbe59a824e5b5e9", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016faf8ed094152f824e59ab9e80e9", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016faf8ed2358c97b083686164e8a4", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf8ed3cd07a81eb5fcabc42d54", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf8ed46013e8838b3d2b3d90d8", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1523397\u002F2a0000016faf8ed443d60f5ec9e4a8895b5c", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016faf8ed51c199de8a00bdf83d030", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016faf8ed693a8272d537a7fc20faf", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016faf8ed66e9112644482be1f2d86", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2426891\u002F2a0000016faf8fd00a22d27b483d42096a4a", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a0000016faf8fd115bf10cf77f821eddce6", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016faf8fd0146b8f2f33b7ea930b0c", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a0000016faf8fd039d26fbe1603186af22d", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016faf8fd069149b8bec82c9d9bc8d", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf8fd382666e3a503f814ad1c0", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf9001370a97d270b20ab53270", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a0000016faf9001b50208b26a82fc380f50", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016faf9001d3bb196328952b39be52", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016faf9002a4babe4c3d6ea462f36e", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf900930870e6dde668e6d766c", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf9009801c61a535a10457a1dc", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016faf90020226eea57f1eecf56558", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016faf9009d1e05f2b669c9cf37912", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016faf900ae719cdb86612f94d4e8b", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2426891\u002F2a0000016faf900e1202259878942a51472d", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2426891\u002F2a0000016faf900f03e76aa7a2506d74af49", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1523397\u002F2a0000016faf9094c63ce1e41257ccae5757", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a0000016faf90a75c84820b4c4b91631957", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2426891\u002F2a0000016faf91048072b627143956e2e005", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016faf9104e2b1504bf795e54a90dc", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf9104b75c430613d2f7330c3d", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016faf9104b4c9d6e2353e8934aaad", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016faf91052dd374238287b40073eb", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a0000016faf91094d4fd370b60987df963f", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016faf9108d12b008cf55e21fd6097", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016faf9109483c71e2a6eab42923b5", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a0000016faf910ab4ee33891f68f0ef8343", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a0000016faf910d270bf07ee62588bca84e", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1523397\u002F2a0000016faf910f2df6cb11c2a36f29347d", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a0000016fb38032ffcea712e7b10c5c6c6a", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016fb38032e1c04fe80c6830ff7f20", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a0000016fb38033b08cebd73a4233206d76", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a0000016fb38033bef577bf37129411cdf4", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016fb38032fea1e98c5052a8d8c9fc", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016fb380371de033a213e729737198", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016fb38036e3b25aab2186853b7857", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016fb38036697be3a25da132793b4b", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a0000016fb38036d29a30e0581511ce21b5", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a0000016fb380391438a9efa52b2602b520", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016fb3803a8d4364d4feffc404b494"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера дома",
+            "numberId": 260,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-doma"
+          }]
+        }]
+      }],
+      "ydoWorkerId": "a9b2cc12-e501-4ab6-afa0-ac424c6693fc",
+      "permalink": null,
+      "isBoosted": false,
+      "geometry": {
+        "type": "Point",
+        "name": "метро Сходненская",
+        "id": "37.43952560424805,55.85051345825195",
+        "coordinates": [37.43952560424805, 55.85051345825195]
+      },
+      "isDocDoc": false,
+      "isPartner": false,
+      "isAdvertised": false
+    }, "bd724664-6cf7-460b-b344-770898463c51": {
+      "id": "bd724664-6cf7-460b-b344-770898463c51",
+      "personalInfo": {
+        "description": "Занимаюсь разработкой и реализацией интерьерного оформления более 8 лет. Дизайн интерьера.",
+        "avatar": "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a0000016fcbdf6cb53ed35cc018b86f172b",
+        "gender": "female",
+        "contactTime": {"start": 11, "finish": 20},
+        "education": [],
+        "socialLinks": {"instagram": "https:\u002F\u002Finstagram.com\u002Folesya_rahmatulina"},
+        "site": "http:\u002F\u002Ftaplink.cc\u002Folesya_rahmatulina",
+        "firstName": "Олеся",
+        "lastName": "Рахматулина",
+        "displayName": "Олеся Рахматулина",
+        "phoneId": "181166316",
+        "addressesList": [{
+          "address": "метро Говорово",
+          "cityName": "Московский"
+        }, {"address": "Киевское шоссе, 22-й километр", "cityName": "Москва"}],
+        "areasList": [{"is_point": false, "name": "Москва", "geoids": [213]}, {
+          "is_point": false,
+          "name": "Санкт-Петербург",
+          "geoids": [2]
+        }],
+        "emailAgreement": true,
+        "phoneAgreement": true,
+        "showMiddleName": false,
+        "hideLastName": false,
+        "passportPhoto": null,
+        "passportWithFacePhoto": null,
+        "accountType": "person"
+      },
+      "seoname": "OlesyaRakhmatulina-564989",
+      "seonameOld": null,
+      "seoid": "564989",
+      "rating": 0,
+      "lastTimeVisit": "2 нед. назад",
+      "reviewsAmount": 0,
+      "relevantAddress": "Санкт-Петербург",
+      "relevantAddressMatched": true,
+      "achievements": {
+        "directSimpleCert": false,
+        "directSpecCert": false,
+        "passport": true,
+        "specializationCertifications": [],
+        "features": []
+      },
+      "settings": {
+        "orderNotificationsByEmail": false,
+        "orderNotificationsByApp": false,
+        "orderNotificationsFrequency": "day",
+        "contractNotificationsByEmail": false,
+        "contractNotificationsByApp": false,
+        "contractNotificationsByPhone": false,
+        "notificationTimeStart": 0,
+        "notificationTimeFinish": 0,
+        "notificationAroundTheClock": false,
+        "showMyPhone": false,
+        "showMyChat": false,
+        "mainCity": {"name": "Московский"}
+      },
+      "displayOptions": {"hasChat": false, "hasPhone": true},
+      "relevantServicesCount": 2,
+      "occupations": [{
+        "id": "741c49b8-268e-4389-94af-1e9127e79346",
+        "rubricId": "\u002Fdizajnery",
+        "attrs": {
+          "experience": 9,
+          "workingDays": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "workStartTime": 9,
+          "workFinishTime": 23
+        },
+        "name": "Дизайнеры",
+        "specializations": [{
+          "id": "a49c5e2d-f9c4-4f6f-b8ad-b9a10f62c318",
+          "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+          "attrs": {
+            "experience": 9,
+            "isAddressAllowed": true,
+            "isAbleToDeparture": true,
+            "isRemoteAllowed": true,
+            "workingDays": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+            "workStartTime": 9,
+            "workFinishTime": 23,
+            "description": "Дизайн интерьера в современном обществе - это уже не \"модная\" тенденция, а скорее необходимость, обусловленная стремлением к комфорту каждого из нас. \nПроектирование интерьера - процесс захватывающий, это всегда рождение чего-то нового. \nВ работе рождаются новые впечатления, мелькают ассоциации, возникает тот образ и атмосфера, которую чувствуете именно вы."
+          },
+          "occupationId": "\u002Fdizajnery",
+          "name": "Дизайнеры интерьеров",
+          "numberId": 258,
+          "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov",
+          "specialistName": "Дизайнер интерьеров",
+          "services": [{
+            "id": "f62de06b-2895-48eb-a238-be797472d5c3",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Favtorskij-nadzor",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "description": "Итоговая стоимость договорная.\nАвторский надзор на соответствие ремонтных работ разработанному проекту: 30000 в месяц, включает в себя до 6 выездов в месяц на один объект и безграничные консультации по телефону.",
+              "name": "Авторский надзор в дизайне интерьеров",
+              "price": 30000,
+              "priceMeasure": "service",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016fe166305144242f77fff3857291", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016fe16656a04ca7b27aa49ea6d622", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016fe1667fa59b4fede60c7719a024", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016fe166eaa9d896e762dc541a6f75", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016fe1670b26660ef9c9514f460c05", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016fe167363afe13c13d1534c2f3d3", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016fe16779eaf7b8038f2a37678d1c"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Авторский надзор в дизайне интерьеров",
+            "numberId": 259,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Favtorskij-nadzor"
+          }, {
+            "id": "e288a62d-f39b-47af-8abb-0e8dce04cd26",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-kvartiry",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайн-проект интерьера квартиры",
+              "price": 2000,
+              "priceMeasure": "m",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a0000016fd6f693811b704c4b33eadb939c", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2426891\u002F2a0000016fd6f699442505b461cdba3494c2", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2426891\u002F2a0000016fd6f7084dfa44ad046043a6d601", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016fd6f75aa74f7a94a28b8ced305e", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016fd6f786cb56d56152f27f84779a", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016fd6f7d22a750c103148fa0281c9", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016fd6f7f26de6106d462fe583d91b"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера квартиры",
+            "numberId": 261,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-kvartiryi"
+          }, {
+            "id": "89bad59f-0a3e-4e60-bce9-e7d1e6c2da8a",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-doma",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайн-проект интерьера дома",
+              "price": 1500,
+              "priceMeasure": "m",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a0000016fed19075836dd4aa7c312e1f092", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016fed191cf48b90dc00a0eef3351f", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016fed193620586aef63be509613d6", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016fed19514dbe57b73315622dfd79", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016fed196b8d87c919e74a4ef97f80", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016fed1983385336c8d6df7e62a306"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера дома",
+            "numberId": 260,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-doma"
+          }, {
+            "id": "21c86cb6-280c-4744-a643-2610257c2e0f",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fpodbor-materialov-i-mebeli",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "description": "Подбор мебели, текстиля, освещения, декора для дизайн-проекта входит в стоимость \"Полного дизайн-проекта\". Но при необходимости можно осуществить подбор не заказывая разработку дизайна. В итоге вы получаете на руки ведомость комплектации. Подбор осуществляю самостоятельно, если желательны совместные выезды стоимость будет отличаться от указанной за квадрат. Каждый выезд от 5000 р.",
+              "name": "Дизайнерский подбор материалов и мебели",
+              "price": 1000,
+              "priceMeasure": "m",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2375918\u002F2a0000016fed67ed835bc332f822ea820ead", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016fed6801a408ee02c80509f859b2", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016fed68194cd079f9dbf7ffc9d037", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a0000016fed684081606d890f3060dfe70e", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2428621\u002F2a0000016fed6854c030f5e0e4f3432ca02b"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайнерский подбор материалов и мебели",
+            "numberId": 265,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fpodbor-materialov-i-mebeli"
+          }, {
+            "id": "781e5acf-548e-4f39-abf6-e501531c66b6",
+            "rubricId": null,
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "description": "Зачем вам планировочное решение? До покупки жилья или после.\n\nПланировочное решение - это план помещения с расстановкой мебели и размещением перегородок, исходя из ваших потребностей и возможности помещения.\n\nПодготовка планировочного решения до приобретения жилья поможет вам оценить \"потенциал\" квартиры. Вы получите представление о том: какую мебель удастся разместить, кухня какого размера впишется, обеденный стол на сколько человек поместится, сколько комнат получится и т.д. Это даст вам возможность увидеть, насколько удовлетворяет рассматриваемая квартира именно вашим потребностям.\n\nЕсли вы уже приобрели жилье. Примите мои поздравления! В этом случае планировочное решение будет не менее полезно. Ведь необходимо максимально эффективно использовать имеющиеся квадратные метры.  ",
+              "name": "Подготовка планировочных решений ",
+              "price": 600,
+              "priceMeasure": "m",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a0000016fe1e0c311cc228579577fb5fcf5", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016fe1e2f5d9e7e1dd3b017a0dc359", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016fe1e32090b2c9d415f42b090d1f", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F2353700\u002F2a0000016fe1e34272f4804336f2a1267f24", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1523397\u002F2a0000016fe1e35a39a11802c2d502176377", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016fe1e3746d4748a2447156e02453", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016fe1e38bc77d898681f3badc69dd"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Подготовка планировочных решений "
+          }]
+        }]
+      }],
+      "ydoWorkerId": "bd724664-6cf7-460b-b344-770898463c51",
+      "permalink": null,
+      "isBoosted": false,
+      "geometry": {
+        "type": "Point",
+        "name": "метро Говорово",
+        "id": "37.417266845703125,55.659549713134766",
+        "coordinates": [37.417266845703125, 55.659549713134766]
+      },
+      "isDocDoc": false,
+      "isPartner": false,
+      "isAdvertised": false
+    }, "1b49abe1-cb64-4d94-8c87-a6ec651036ba": {
+      "id": "1b49abe1-cb64-4d94-8c87-a6ec651036ba",
+      "messengerId": "bafcc79e-4311-43f4-94b2-91202823214f",
+      "chatbotId": "1f881e35-4c9a-4a0d-88fa-d57206197892",
+      "personalInfo": {
+        "description": "Меня зовут Виктория. Я являюсь основателем и главным дизайнером студии «ХОРОШИЙ ИНТЕРЬЕР».\n\nЗанимаюсь дизайном с 2009г.\n\nЗакончила профильное высшее образование в МГЭИ , специальность: дизайнер интерьера.\n\nПредлагаю полный пакет услуг:\n- 3д визуализация;\n- полный комплект рабочих чертежей;\n- авторский надзор;\n- комплектация.\n\nЕсли Вы хотите получить Авторский индивидуальный дизайн интерьера своей мечты,\n\nЯ рада  Вам помочь.",
+        "avatar": "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1540809\u002F2a0000016b8fb5f164c398e218fcf57fc250",
+        "dob": "1985-07-25",
+        "gender": "female",
+        "education": ["МГЭИ"],
+        "socialLinks": {},
+        "site": "http:\u002F\u002Fwww.ginterior.ru\u002F",
+        "docs": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1540809\u002F2a0000016b97beb695defbd1690d606ce932"],
+        "firstName": "Виктория",
+        "lastName": "Савиных",
+        "displayName": "Виктория Савиных",
+        "phoneId": "293351419",
+        "addressesList": [],
+        "areasList": [{"is_point": false, "name": "Ялта", "geoids": [11470]}, {
+          "is_point": false,
+          "name": "Симферополь",
+          "geoids": [146]
+        }, {"is_point": false, "name": "Севастополь", "geoids": [959]}, {
+          "is_point": false,
+          "name": "Республика Крым",
+          "geoids": [977]
+        }, {"is_point": false, "name": "Краснодар", "geoids": [35]}, {
+          "is_point": false,
+          "name": "Москва",
+          "geoids": [213]
+        }, {"is_point": false, "name": "Санкт-Петербург", "geoids": [2]}],
+        "emailAgreement": true,
+        "phoneAgreement": true,
+        "showMiddleName": false,
+        "hideLastName": false,
+        "passportPhoto": null,
+        "passportWithFacePhoto": null,
+        "accountType": "person"
+      },
+      "seoname": "ViktoriyaSavinykh-292855",
+      "seonameOld": null,
+      "seoid": "292855",
+      "rating": 0,
+      "lastTimeVisit": "1 нед. назад",
+      "reviewsAmount": 0,
+      "relevantAddress": "Санкт-Петербург",
+      "relevantAddressMatched": true,
+      "achievements": {
+        "directSimpleCert": false,
+        "directSpecCert": false,
+        "passport": true,
+        "specializationCertifications": [],
+        "features": []
+      },
+      "settings": {
+        "orderNotificationsByEmail": false,
+        "orderNotificationsByApp": false,
+        "orderNotificationsFrequency": "day",
+        "contractNotificationsByEmail": false,
+        "contractNotificationsByApp": false,
+        "contractNotificationsByPhone": false,
+        "notificationTimeStart": 0,
+        "notificationTimeFinish": 0,
+        "notificationAroundTheClock": false,
+        "showMyPhone": false,
+        "showMyChat": false
+      },
+      "displayOptions": {"hasChat": true, "hasPhone": true},
+      "relevantServicesCount": 2,
+      "occupations": [{
+        "id": "c4d93733-4d82-4ac8-b8d1-64322d6ffcb1",
+        "rubricId": "\u002Fdizajnery",
+        "attrs": {
+          "experience": 11,
+          "workingDays": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+          "workStartTime": 11,
+          "workFinishTime": 20
+        },
+        "name": "Дизайнеры",
+        "specializations": [{
+          "id": "5579c8e6-84e7-4f6b-a19d-9850b4e7a87e",
+          "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+          "attrs": {
+            "experience": 11,
+            "isAddressAllowed": true,
+            "isAbleToDeparture": true,
+            "isRemoteAllowed": true,
+            "workingDays": ["monday", "tuesday", "wednesday", "thursday", "friday"],
+            "workStartTime": 11,
+            "workFinishTime": 20,
+            "description": "Студия \"Хороший интерьер\" разработает дизайн-проект любого помещения: квартира, частный дом, офисное помещение, объект досуга и питания, промышленный объект.\n\nСтоимость  дизайн-проекта - от 1200 руб. за кв.м.\nВ стоимость полного дизайн-проекта входит:\n- полный комплект рабочих чертежей;\n- трехмерная визуализация всех помещений;\n- комплектация объекта материалами.\n\nМы предоставляем полный спектр услуг:\n• Дизайн квартир и домов\n• Дизайн общественных помещений\n• Комплектация объекта материалами\n• Подбор строительной бригады\n. Авторский надзор\n\nМы работаем с заказчиками из разных регионов."
+          },
+          "occupationId": "\u002Fdizajnery",
+          "name": "Дизайнеры интерьеров",
+          "numberId": 258,
+          "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov",
+          "specialistName": "Дизайнер интерьеров",
+          "services": [{
+            "id": "f83b9fed-9f76-4fa8-94c3-01401bbe832d",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Favtorskij-nadzor",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Авторский надзор в дизайне интерьеров",
+              "price": 25000,
+              "priceMeasure": "service",
+              "violations": {"common": [], "photo": {}},
+              "features": {}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Авторский надзор в дизайне интерьеров",
+            "numberId": 259,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Favtorskij-nadzor"
+          }, {
+            "id": "872cba9c-a86c-45b7-846b-1ad76c045277",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-kvartiry",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайн-проект интерьера квартиры",
+              "price": 1200,
+              "priceMeasure": "m",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1449941\u002F2a0000016b90090bd74051e41d050d01116d", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a0000016b900959946966ffdc38198e5c66", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1380299\u002F2a0000016b900d5d833ea3cabbb948f5c9ee", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016b900da4edf129e512c682326531", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a0000016b900e092e3b95ccfb185c06b841", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016b900e7ca4ada51ace487827c301", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1384592\u002F2a0000016b900e92c5b7692323c6571ffaf2", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016b900ebbaba9f135d0b549b42a5c", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016b900f1a9ee37e59b0d0a3186ce1", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016b900f3d4d181f290d46e179bda8", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1523397\u002F2a0000016b900fad64eeb67f2a83b2c4efae", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016b900fedfb7dae22ae3c8ce33313", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1817195\u002F2a0000016b90108ce2266583099d0b2c085a", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016b9010d8c8e6f37db278a3b5a3dd", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1384592\u002F2a0000016b9011899e4dcee384197a419816", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1384592\u002F2a0000016b9011b7617e1809863d51784156", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1523397\u002F2a0000016b9011f6966626a77e5ab9b074a4", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1384592\u002F2a0000016b9012691b7036d7a3e493254018", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1817195\u002F2a0000016b9012a7f81aec290f039163e122", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1380299\u002F2a0000016b901313b0daddee34393cee8ecb", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1380299\u002F2a0000016b9013731eafce1b1dae6140a35d", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1817195\u002F2a0000016b901393440e489d0b4d42e7184e", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1384592\u002F2a0000016b9028adca564351cd6ffeecb110", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1817195\u002F2a0000016bb20b02180fd93ae18ae18e7a1e", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1380299\u002F2a0000016bb20b1ffb06dfff4eaef44865a4", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1817195\u002F2a0000016bb20b20534de15f732bf4dbd6fe"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера квартиры",
+            "numberId": 261,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-kvartiryi"
+          }, {
+            "id": "35c9ed90-ea5a-4f32-aa0f-f05f34e9b407",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-doma",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайн-проект интерьера дома",
+              "price": 1200,
+              "priceMeasure": "m",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a0000016b901aaf7efa3ea00bb2bfd28226", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1384592\u002F2a0000016b901ac74557b4e78e1f3cdb3fbd", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a0000016b901c3254760bf17d4e24b9e22b", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1653787\u002F2a0000016b901c9370de695a5b6a49809124", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1384592\u002F2a0000016b901d927fa441f5d2e58a9cce39", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1817195\u002F2a0000016b901db3c8172965b3c993df5464", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1384592\u002F2a0000016b9020de7900e9694a46cef5861c", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1380299\u002F2a0000016b90210700c46c5b5ff335e01a8a", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1380299\u002F2a0000016b90213b0c72799c9f90a3e79443", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1380299\u002F2a0000016b90215f5d6ccf8639b4285e2f22", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1817195\u002F2a0000016b902197b779ab1cd5422ac35f94", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1449941\u002F2a0000016b9021c1857cfc0201a8341cc57a", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1817195\u002F2a0000016b9021e523646608f88ecae25767", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a0000016b90220ea91de3948e2da0ceda93"],
+              "violations": {"common": [], "photo": {}},
+              "features": {}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера дома",
+            "numberId": 260,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-doma"
+          }, {
+            "id": "f4852358-0946-4f23-bb56-55385e2fd51f",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-ofisa",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайн-проект интерьера офиса",
+              "price": 1200,
+              "priceMeasure": "m",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016b902a4cb410d0d50be40ca0dbe5", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016b902a619c5b0497fb3739ff3175", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1449941\u002F2a0000016b902a882c12ab4842086b0936ef", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016b902a9ff45865edf1a4254f214f", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016b902ac5de938249a39e891d9482", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016b902b01253f441fc970717efd6f", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1817195\u002F2a0000016ba7daa41a84b538d9fd4f8ebf09", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a0000016ba7db15badfb1575d67cd872bc6", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1817195\u002F2a0000016ba7db15de082340edcc5d5fbcd4"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера офиса",
+            "numberId": 263,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-ofisa"
+          }, {
+            "id": "6c830768-9d44-407c-91a9-5accdc50de72",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-magazina",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайн-проект интерьера магазина",
+              "price": 1000,
+              "priceMeasure": "service",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1449941\u002F2a0000016b90292e8cb44c367aff86de213c", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1380299\u002F2a0000016b97b68a5891b5e000a6c7575b53", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1523397\u002F2a0000016b97b6a2c729665152999fb057c1", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1817195\u002F2a0000016b97b6c56b34c79f29616decbba5", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016b97b6e4ffec7e9701f363572a20"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера магазина",
+            "numberId": 262,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-magazina"
+          }, {
+            "id": "3d79033f-86f8-4420-80fe-313fa97f260e",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-restorana",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайн-проект интерьера ресторана",
+              "price": 1000,
+              "priceMeasure": "m",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a0000016b9028545e7916766998e879cae2"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера ресторана",
+            "numberId": 264,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-restorana"
+          }, {
+            "id": "2f56cc5f-c715-40d3-a050-c860ce40a955",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fpodbor-materialov-i-mebeli",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайнерский подбор материалов и мебели",
+              "price": 2000,
+              "priceMeasure": "service",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1817195\u002F2a0000016b902cb7a02058774fc65a62c9e7", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1817195\u002F2a0000016b902cd8709e94e33ab980070557", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1380299\u002F2a0000016b902cea0bf41375dec4bc26a8a7", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1384592\u002F2a0000016b902d0336b0c018a7fe87886345"],
+              "violations": {"common": [], "photo": {}},
+              "features": {}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайнерский подбор материалов и мебели",
+            "numberId": 265,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fpodbor-materialov-i-mebeli"
+          }]
+        }]
+      }],
+      "ydoWorkerId": "1b49abe1-cb64-4d94-8c87-a6ec651036ba",
+      "permalink": null,
+      "isBoosted": false,
+      "isDocDoc": false,
+      "isPartner": false,
+      "isAdvertised": false
+    }, "7d3b881c-f8d2-4753-ab00-3a4fc9a64287": {
+      "id": "7d3b881c-f8d2-4753-ab00-3a4fc9a64287",
+      "messengerId": "0692fe4d-6ca0-40bc-a156-15d9cc21b72f",
+      "chatbotId": "41eb2b72-c336-4416-8b56-277357301e00",
+      "personalInfo": {
+        "description": "Здравствуйте! Студия дизайна интерьера Эйт Studio основана в 2006 году. Основной профиль деятельности - разработка дизайн-проектов интерьера для квартир, домов и апартаментов. \nВ дизайн-проекте на визуализации только реальные отделочные материалы и мебель, а по итогу работы дадим полный пакет чертежей \"от пола до потолка\", в проект так же включены спецификации и расчет отделочных материалов для ремонта. \nКомпания работаем во многих городах с выездом на объект и удаленно. Разрабатываем дизайн интерьера в Москве, Костроме, Санкт-Петербурге, Ярославле и др. Работа строится по договору, в договоре указываются сроки, стоимость и объем работы. На сайте можно бесплатно посмотреть пример проекта, чтобы понять ход и итог работы компании над проектом",
+        "avatar": "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1817195\u002F2a0000016d270daa4a29b26dfd59e84c2ec6",
+        "education": [],
+        "socialLinks": {
+          "vk": "https:\u002F\u002Fvk.com\u002Fid201234364",
+          "facebook": "https:\u002F\u002Ffacebook.com\u002Flisakrutikova"
+        },
+        "site": "http:\u002F\u002F8-studio.ru\u002F",
+        "firstName": "Елизавета",
+        "lastName": "Крутикова",
+        "displayName": "Елизавета Крутикова",
+        "phoneId": "372778107",
+        "addressesList": [{
+          "address": "метро Белорусская",
+          "cityName": "Москва"
+        }, {"address": "Невский проспект", "cityName": "Санкт-Петербург"}],
+        "areasList": [{"is_point": false, "name": "Москва", "geoids": [213]}, {
+          "is_point": false,
+          "name": "Санкт-Петербург",
+          "geoids": [2]
+        }, {"is_point": false, "name": "Кострома", "geoids": [7]}],
+        "emailAgreement": true,
+        "phoneAgreement": true,
+        "showMiddleName": false,
+        "hideLastName": false,
+        "passportPhoto": null,
+        "passportWithFacePhoto": null,
+        "accountType": "org",
+        "companyName": "Эйт Студио"
+      },
+      "seoname": "EhjtStudio-364457",
+      "seonameOld": null,
+      "seoid": "364457",
+      "rating": 0,
+      "lastTimeVisit": "1 нед. назад",
+      "reviewsAmount": 0,
+      "relevantAddress": "Санкт-Петербург",
+      "relevantAddressMatched": true,
+      "achievements": {
+        "directSimpleCert": false,
+        "directSpecCert": false,
+        "specializationCertifications": [],
+        "features": []
+      },
+      "settings": {
+        "orderNotificationsByEmail": false,
+        "orderNotificationsByApp": false,
+        "orderNotificationsFrequency": "day",
+        "contractNotificationsByEmail": false,
+        "contractNotificationsByApp": false,
+        "contractNotificationsByPhone": false,
+        "notificationTimeStart": 0,
+        "notificationTimeFinish": 0,
+        "notificationAroundTheClock": false,
+        "showMyPhone": false,
+        "showMyChat": false,
+        "mainCity": {"name": "Москва"}
+      },
+      "displayOptions": {"hasChat": true, "hasPhone": true},
+      "relevantServicesCount": 2,
+      "occupations": [{
+        "id": "2d7e6e41-8ad7-4141-98d1-67ad54d232f4",
+        "rubricId": "\u002Fdizajnery",
+        "attrs": {
+          "experience": 11,
+          "workingDays": ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"],
+          "workStartTime": 10,
+          "workFinishTime": 21
+        },
+        "name": "Дизайнеры",
+        "specializations": [{
+          "id": "c00bdb1a-df93-4cec-9874-00e05a544441",
+          "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+          "attrs": {
+            "experience": 11,
+            "isRemoteAllowed": true,
+            "workingDays": ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"],
+            "workStartTime": 10,
+            "workFinishTime": 21,
+            "description": "Проект создается \"под ключ\", в начале работы делаем замер помещения и заполняем техническое задание "
+          },
+          "occupationId": "\u002Fdizajnery",
+          "name": "Дизайнеры интерьеров",
+          "numberId": 258,
+          "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov",
+          "specialistName": "Студия дизайна интерьеров",
+          "services": [{
+            "id": "0590e85e-66c2-4e54-a6ba-fcd4fc73e5f5",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Favtorskij-nadzor",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "description": "Сопровождение реализации проекта во время ремонта включает:\n- выезды дизайнера на объект (не менее 4х раз в месяц)\n- консультация ремонтной бригады\n- со стороны дизайнера контроль ремонтных работ\n- внесение корректировок в процессе воплощения проекта\n- дополнение рабочей документации",
+              "name": "Авторский надзор в дизайне интерьеров",
+              "price": 25000,
+              "priceMeasure": "service",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1384592\u002F2a0000016d271b0820e2fe9ffeefed6acdb2", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1384592\u002F2a0000016d271b0944168d9d0fad009ce3aa", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016d271b0b36535e57b97689731d96", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1817195\u002F2a0000016d271b0b23275e2175841b563623", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1817195\u002F2a0000016d271b0b5e1171108b7bafb62dc7"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Авторский надзор в дизайне интерьеров",
+            "numberId": 259,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Favtorskij-nadzor"
+          }, {
+            "id": "faac39d1-1ccd-46e8-b521-eb23e1933456",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-kvartiry",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "description": "Дизайн-проект интерьера квартиры включает:\n- Замер помещения\n- Концепцию дизайна интерьера\n- Планировочное решение\n- 3D визуализация каждого помещения по 3-4 картинки\n- Подбор отделочных материалов\n- Расчет отделочных материалов (спецификации)\n- Все чертежи для ремонта",
+              "name": "Дизайн-проект интерьера квартиры",
+              "price": 1590,
+              "priceMeasure": "m",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016d27181fe129c659ee4cb9437958", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1540809\u002F2a0000016d271823ac668ec18318f6d8cfd8", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016d271827ecf35e5e6e7e44552df9", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1817195\u002F2a0000016d271827d07ee0747449c25f8561", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016d27189859a910755c446d82416f", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016d271921a1ae7a2d064078c9fb9e", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016d271921b988b3e75dfc79568f0d", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1817195\u002F2a0000016d271923578a91ce7bca8713bafc", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016d2719237526a0c31272f7c78014"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера квартиры",
+            "numberId": 261,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-kvartiryi"
+          }, {
+            "id": "3a4f5226-fa18-4c1b-a79a-7e48460dddfb",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-doma",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "description": "Дизайн-проект дома включает:\n- Замеры помещения \n- Концепцию дизайна интерьера\n- Планировочное решение\n- 3D визуализация каждого помещения по 3-4 картинки\n- Подбор отделочных материалов\n- Расчет отделочных материалов (спецификации)\n- Все чертежи для ремонта",
+              "name": "Дизайн-проект интерьера дома",
+              "price": 1590,
+              "priceMeasure": "m",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016d27205447beaba35d494606b40b", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016d27205a57dc1d4edb15b2eff268", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1540809\u002F2a0000016d27205ac6dfa7398ac112d3f2c9", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a0000016d27205a9e5611b0fa0339f8d9c7"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера дома",
+            "numberId": 260,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-doma"
+          }, {
+            "id": "de2c484d-e33d-4233-b4b3-ad02d212a3ba",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fpodbor-materialov-i-mebeli",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "description": "Комплектация отделочными материалами в ходе ремонта включает:\n- помощь с покупкой и доставкой отделочных материалов и мебели\n- общение с поставщиками\n- поиск и замена отделочных материалов, мебели в случаи снятия с производства\n- Обсуждение замеры товаров при браке\n- расчет новых отделочных материалов\n- приемка и проверка товаров на объекте\n- согласование сроков доставки",
+              "name": "Дизайнерский подбор материалов и мебели",
+              "price": 20000,
+              "priceMeasure": "service",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1384592\u002F2a0000016d271cbb7c4becd730f46b0a49e1", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1817195\u002F2a0000016d271daf63c74e8b786e1142ef00", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016d271daeb6b08079779947f251cf", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016d271dafa361a2c63e10ddbc34cd", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016d271dafe66efb8e0c876a555728", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1384592\u002F2a0000016d271db02d7ba11ef332a5995062", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016d271db1439e5a93bad167c83123", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016d271db0d5d8fa7a55434abbf03b", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016d271e5e36b27852d9da3b8868c3", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016d271e5ed2dbcd322b65941204d9"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайнерский подбор материалов и мебели",
+            "numberId": 265,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fpodbor-materialov-i-mebeli"
+          }]
+        }]
+      }],
+      "ydoWorkerId": "7d3b881c-f8d2-4753-ab00-3a4fc9a64287",
+      "permalink": 54203216740,
+      "isBoosted": false,
+      "geometry": {
+        "type": "Point",
+        "name": "метро Белорусская",
+        "id": "37.58525085449219,55.77677536010742",
+        "coordinates": [37.58525085449219, 55.77677536010742]
+      },
+      "isDocDoc": false,
+      "isPartner": false,
+      "isAdvertised": false
+    }, "cb8b62bb-dbd3-4b44-90e2-381a94be02ad": {
+      "id": "cb8b62bb-dbd3-4b44-90e2-381a94be02ad",
+      "messengerId": "bbf074ea-748f-438b-a89f-ea1fe481cc72",
+      "chatbotId": "85d4f6ab-c1a9-4989-aef6-4ca2931e89e8",
+      "personalInfo": {
+        "description": "Добрый день.\nИмею Высшее Худ.-пром..образование,закончил СПбГХПА им .А.Л.Штиглица\nБолее чем за 20 летний опыт работы дизайнером интерьеров мною было реализовано множество в основном жилых итнерьеров.\nКаждый интерьер, созданный моими руками, это проработка каждой детали, функциональность, соответствие вкусам заказчика и нестандартные решения, отвечающие всем требованиям современности.Именно поэтому каждый созданный мною интерьер – это авторское и неповторимое произведение искусства, где гармонично объединены стиль, удобство, красота, уют и практичность.\n\nРаботаем в команде: архитектор- дизайнер  ,декоратор разработка мебели ,лепные изделия (гипс),декоративная штукатурка. Консультации. Проведение строительства и ремонта.\nГотовы выполнить проект любой сложности, под ключ , от первых набросков на бумаге , до строительства . Имеются свои строительные бригады высококачественных специалистов ",
+        "avatar": "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1449941\u002F2a000001685c13924ece11bf60e85abd029b",
+        "dob": "1964-09-18",
+        "gender": "male",
+        "contactTime": {"start": 11, "finish": 23},
+        "education": ["Высшее "],
+        "socialLinks": {},
+        "docs": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1380299\u002F2a000001685c1a82034d1701a69ea8ce11f6", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a000001685c1abf469e6e3f4dc09536eca1"],
+        "firstName": "Aleksei",
+        "lastName": "Torlopov",
+        "displayName": "Aleksei Torlopov",
+        "phoneId": "4309896",
+        "addressesList": [{"address": "Гжатская улица", "cityName": "Санкт-Петербург"}],
+        "areasList": [{"is_point": false, "name": "Всеволожск", "geoids": [10865]}, {
+          "is_point": false,
+          "name": "деревня Агалатово",
+          "geoids": [117088]
+        }, {"is_point": false, "name": "Сестрорецк", "geoids": [102557]}, {
+          "is_point": false,
+          "name": "муниципальный округ Лахта-Ольгино",
+          "geoids": [120663]
+        }, {"is_point": false, "name": "массив Кудрово", "geoids": [165680]}, {
+          "is_point": false,
+          "name": "Зеленогорск",
+          "geoids": [37180]
+        }, {"is_point": false, "name": "Кронштадт", "geoids": [21776]}, {
+          "is_point": false,
+          "name": "Петергоф",
+          "geoids": [98546]
+        }, {"is_point": false, "name": "Пушкин", "geoids": [10884]}],
+        "emailAgreement": true,
+        "phoneAgreement": true,
+        "showMiddleName": false,
+        "hideLastName": false,
+        "passportPhoto": null,
+        "passportWithFacePhoto": null,
+        "accountType": "person"
+      },
+      "seoname": "AlekseiTorlopov-151654",
+      "seonameOld": null,
+      "seoid": "151654",
+      "rating": 0,
+      "lastTimeVisit": "2 д. назад",
+      "reviewsAmount": 0,
+      "relevantAddress": "Санкт-Петербург, Академическое",
+      "relevantAddressMatched": true,
+      "achievements": {
+        "directSimpleCert": false,
+        "directSpecCert": false,
+        "passport": true,
+        "specializationCertifications": [],
+        "features": []
+      },
+      "settings": {
+        "orderNotificationsByEmail": false,
+        "orderNotificationsByApp": false,
+        "orderNotificationsFrequency": "day",
+        "contractNotificationsByEmail": false,
+        "contractNotificationsByApp": false,
+        "contractNotificationsByPhone": false,
+        "notificationTimeStart": 0,
+        "notificationTimeFinish": 0,
+        "notificationAroundTheClock": false,
+        "showMyPhone": false,
+        "showMyChat": false,
+        "mainCity": {"name": "Санкт-Петербург"}
+      },
+      "displayOptions": {"hasChat": true, "hasPhone": true},
+      "relevantServicesCount": 2,
+      "occupations": [{
+        "id": "04359810-07c6-4112-90fe-54b10f8b5135",
+        "rubricId": "\u002Fdizajnery",
+        "attrs": {
+          "experience": 11,
+          "isAddressAllowed": true,
+          "isAbleToDeparture": true,
+          "isRemoteAllowed": true,
+          "workingDays": ["monday", "friday", "thursday", "wednesday", "tuesday"],
+          "workStartTime": 11,
+          "workFinishTime": 23
+        },
+        "name": "Дизайнеры",
+        "specializations": [{
+          "id": "f47e78bf-a69e-4a27-a134-bc3ce79dbaa3",
+          "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+          "attrs": {
+            "experience": 11,
+            "isAddressAllowed": true,
+            "isAbleToDeparture": true,
+            "isRemoteAllowed": true,
+            "workingDays": ["monday", "friday", "thursday", "wednesday", "tuesday"],
+            "workStartTime": 11,
+            "workFinishTime": 23,
+            "description": "Дизайн интерьера ,"
+          },
+          "occupationId": "\u002Fdizajnery",
+          "name": "Дизайнеры интерьеров",
+          "numberId": 258,
+          "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov",
+          "specialistName": "Дизайнер интерьеров",
+          "services": [{
+            "id": "66f9609a-89e3-45f3-9af3-07b4564f784f",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Ftrehmernaa-vizualizazia",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Трехмерная визуализация дизайна интерьеров",
+              "price": 750,
+              "priceMeasure": "km",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a000001685d2bce991003f47fad76ab48dd", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1380299\u002F2a000001685d2bcee277fbe7060ab4e58dd5", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a000001685d2bd271c44505b5a36fce8eb5", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1523397\u002F2a000001685d2bd2705718d9b440e77efa4f", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1540809\u002F2a000001685d2bd4fafdd27d3652ecd07ab4", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a000001685d2bd287cd81da16793985ef80", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1449941\u002F2a000001685d2bd2d4720ea71c45edcdf7a2", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1540809\u002F2a000001685d2bd3077cecf74390b99e4446", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a000001685d2bd41b8611575f0be89ac560", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1540809\u002F2a000001685d2bd6bdbd0dec1f008a3a6112", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1449941\u002F2a000001685d2c91cdaa164f0daa3c23e80f", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a000001685d2c91fad4b229b8b77c7475b1"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Трехмерная визуализация дизайна интерьеров",
+            "numberId": 266,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Ftrehmernaya-vizualizatsiya"
+          }, {
+            "id": "78d19454-a16d-479f-b76e-7c599218ce01",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Favtorskij-nadzor",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Авторский надзор в дизайне интерьеров",
+              "price": 2000,
+              "priceMeasure": "hour",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Авторский надзор в дизайне интерьеров",
+            "numberId": 259,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Favtorskij-nadzor"
+          }, {
+            "id": "efe96e23-96d7-4ef8-aeed-6797c7b3a441",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-kvartiry",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайн-проект интерьера квартиры",
+              "price": 1000,
+              "priceMeasure": "km",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a000001685d2ef7e77b3789cdacd2d51bfc", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1380299\u002F2a000001685d2ef7a2400d10a1ab97ab3f14", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1540809\u002F2a000001685d2ef7ac8cf7e939b16762a047", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1540809\u002F2a000001685d2ef79ecee0de2b0f1e0b081f", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1449941\u002F2a000001685d2ef8448242469ea9b0ba6f4d", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1380299\u002F2a000001685d2efc9548abffb8276ff32597", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a000001685d2efd9049a18b86dc30584329", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1384592\u002F2a000001685d2f02e0bea08f8fc31fbbdd18", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a000001685d2f05300ce1d11f9d5552a684", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1540809\u002F2a000001685d2f0a4cb3a7260f008a39aa96", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1649611\u002F2a000001685d2f0b92e2e4c7017829147d44", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1384592\u002F2a000001685d2f0651b8fadac4f7604fa66c", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1540809\u002F2a000001685d2f0f73772fb9429c1c49355b", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1384592\u002F2a000001685d2f17a357ec248f13259e9ef3", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1380299\u002F2a000001685d2f1c8ce69e8c1f6b7e48a2da", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a000001685d2f1edb101896f3e583da2d4a", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1384592\u002F2a000001685d2f2249b42acca7069508fb4d", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a000001685d2f27da4fe12c249868c0e5e1", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1449941\u002F2a000001685d2f2aefecf92e4f53fa43985e", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1380299\u002F2a000001685d2f30f858320e4729adf3250e", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1540809\u002F2a000001685d2f3138acbb630bfc4bb219dc", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a000001685d2f31276c7edf21415f1c01a9", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1540809\u002F2a000001685d2f33a8e4d0df6db8cbdd4be4", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a000001685d2f3e0e28fe03d794b3778005", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1384592\u002F2a000001685d2f46ca983190be8fcd3c119f", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1540809\u002F2a000001685d2f4a17cddd5ccfd8991a2f30"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера квартиры",
+            "numberId": 261,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-kvartiryi"
+          }, {
+            "id": "f3708bd1-8f73-4f14-8575-0d0f3d34961c",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-doma",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайн-проект интерьера дома",
+              "price": 1000,
+              "priceMeasure": "km",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1523397\u002F2a000001685d2defa4e7d28b694811f36f02", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1540809\u002F2a000001685d2df04a696e70274a959841b4", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a000001685d2df12dce62f7971a52223c20", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1384592\u002F2a000001685d2df1e4e5436c2a623f848dbe", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1384592\u002F2a000001685d2df58329e8ad9db2a1f28b42", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a000001685d2df50cb34f8b56710c6b6592", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a000001685d2e009672d192373a0df0eb9f", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a000001685d2e00897f746ad1d81440696b", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a000001685d2e015de753e32516d08ba015", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1449941\u002F2a000001685d2e03786467a3c98b3ad608b2", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1449941\u002F2a000001685d2e0a015377a124c7ecff21fb", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1380299\u002F2a000001685d2e05fbfec4a44a028dcd3c68", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1540809\u002F2a000001685d2e10eeb1f5d0f1fd01ff9fa7", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1380299\u002F2a000001685d2e13d1243e715b2836cf7236"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера дома",
+            "numberId": 260,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-doma"
+          }, {
+            "id": "32d75610-a656-4b69-b435-24f1c98e79b5",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-ofisa",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайн-проект интерьера офиса",
+              "price": 500,
+              "priceMeasure": "km",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера офиса",
+            "numberId": 263,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-ofisa"
+          }, {
+            "id": "7641504c-2fc1-42f8-834f-7400de400e0e",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-magazina",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайн-проект интерьера магазина",
+              "price": 1000,
+              "priceMeasure": "km",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера магазина",
+            "numberId": 262,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-magazina"
+          }, {
+            "id": "aeb94b23-226b-49a4-a57c-5c9709b6c474",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-restorana",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайн-проект интерьера ресторана",
+              "price": 1000,
+              "priceMeasure": "km",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера ресторана",
+            "numberId": 264,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-restorana"
+          }, {
+            "id": "38645ef2-b4db-4814-98c6-c7491793cdb3",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fpodbor-materialov-i-mebeli",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайнерский подбор материалов и мебели",
+              "price": 1500,
+              "priceMeasure": "hour",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайнерский подбор материалов и мебели",
+            "numberId": 265,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fpodbor-materialov-i-mebeli"
+          }]
+        }]
+      }],
+      "ydoWorkerId": "cb8b62bb-dbd3-4b44-90e2-381a94be02ad",
+      "permalink": null,
+      "isBoosted": false,
+      "geometry": {
+        "type": "Point",
+        "name": "Гжатская улица",
+        "id": "30.383808135986328,60.00485610961914",
+        "coordinates": [30.383808135986328, 60.00485610961914]
+      },
+      "isDocDoc": false,
+      "isPartner": false,
+      "isAdvertised": false
+    }, "7be1a0e4-a3c3-4b19-a552-3cbbc67ae84c": {
+      "id": "7be1a0e4-a3c3-4b19-a552-3cbbc67ae84c",
+      "messengerId": "b5b54e40-9f20-41d7-b529-30eb52636f61",
+      "chatbotId": "64d0032b-1f02-4411-8609-03a6280f84c9",
+      "personalInfo": {
+        "description": "Дизайнер по образованию, более 10 лет работаю в сфере проектирования и изготовления предметов интерьера. Более 3х лет организую фуршеты и выездные мероприятия.",
+        "avatar": "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a0000016af05e96d26442a618f2e3579dc8",
+        "dob": "1989-10-23",
+        "gender": "male",
+        "contactTime": {"start": 7, "finish": 24},
+        "education": ["СПбГПУ 2011"],
+        "socialLinks": {
+          "vk": "https:\u002F\u002FVk.com\u002Fid654",
+          "instagram": "https:\u002F\u002Finstagram.com\u002FVgalibov"
+        },
+        "firstName": "Владислав",
+        "lastName": "Галибов",
+        "displayName": "Владислав Галибов",
+        "phoneId": "5668404",
+        "addressesList": [],
+        "areasList": [{"is_point": false, "name": "Санкт-Петербург", "geoids": [2]}],
+        "emailAgreement": true,
+        "phoneAgreement": true,
+        "showMiddleName": false,
+        "hideLastName": false,
+        "passportPhoto": null,
+        "passportWithFacePhoto": null,
+        "accountType": "person"
+      },
+      "seoname": "VladislavGalibov-117788",
+      "seonameOld": "VladislavGalibov",
+      "seoid": "117788",
+      "rating": 0,
+      "lastTimeVisit": "3 д. назад",
+      "reviewsAmount": 0,
+      "relevantAddress": "Санкт-Петербург",
+      "relevantAddressMatched": true,
+      "achievements": {
+        "directSimpleCert": false,
+        "directSpecCert": false,
+        "passport": true,
+        "specializationCertifications": [],
+        "features": []
+      },
+      "settings": {
+        "orderNotificationsByEmail": false,
+        "orderNotificationsByApp": false,
+        "orderNotificationsFrequency": "day",
+        "contractNotificationsByEmail": false,
+        "contractNotificationsByApp": false,
+        "contractNotificationsByPhone": false,
+        "notificationTimeStart": 0,
+        "notificationTimeFinish": 0,
+        "notificationAroundTheClock": false,
+        "showMyPhone": false,
+        "showMyChat": false
+      },
+      "displayOptions": {"hasChat": true, "hasPhone": true},
+      "relevantServicesCount": 2,
+      "occupations": [{
+        "id": "422c0294-28d1-4de0-b01b-3cf63ae2d905",
+        "rubricId": "\u002Fdizajnery",
+        "attrs": {"experience": 11},
+        "name": "Дизайнеры",
+        "specializations": [{
+          "id": "1b18ea09-8b99-4ef4-9bc8-58911c956e33",
+          "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+          "attrs": {
+            "experience": 11,
+            "isAbleToDeparture": true,
+            "isRemoteAllowed": true,
+            "workingDays": ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"],
+            "workStartTime": 8,
+            "workFinishTime": 23,
+            "description": "Разрабатывал дизайн проекты и АР общественных и жилых помещений. "
+          },
+          "occupationId": "\u002Fdizajnery",
+          "name": "Дизайнеры интерьеров",
+          "numberId": 258,
+          "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov",
+          "specialistName": "Дизайнер интерьеров",
+          "services": [{
+            "id": "06d7b56d-5d7c-493a-9008-96c60404eaa9",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Ftrehmernaa-vizualizazia",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Трехмерная визуализация дизайна интерьеров",
+              "price": 1000,
+              "priceMeasure": "m",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Трехмерная визуализация дизайна интерьеров",
+            "numberId": 266,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Ftrehmernaya-vizualizatsiya"
+          }, {
+            "id": "b6bd9649-05e8-4e6b-83c6-0d40dcded856",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Favtorskij-nadzor",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Авторский надзор в дизайне интерьеров",
+              "price": 10000,
+              "priceMeasure": "service",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Авторский надзор в дизайне интерьеров",
+            "numberId": 259,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Favtorskij-nadzor"
+          }, {
+            "id": "b9089e47-5ca3-4223-aaf8-006935ecfc43",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-kvartiry",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайн-проект интерьера квартиры",
+              "price": 1000,
+              "priceMeasure": "m",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера квартиры",
+            "numberId": 261,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-kvartiryi"
+          }, {
+            "id": "cf641300-0fdc-4bff-b506-9d043e3fb2b2",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-doma",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайн-проект интерьера дома",
+              "price": 1000,
+              "priceMeasure": "m",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера дома",
+            "numberId": 260,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-doma"
+          }, {
+            "id": "6d5b9d2e-5133-4698-b93e-49dcac484724",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-ofisa",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайн-проект интерьера офиса",
+              "price": 1000,
+              "priceMeasure": "m",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера офиса",
+            "numberId": 263,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-ofisa"
+          }, {
+            "id": "b2d1d556-ad0b-4c1a-b998-1bd743d408a1",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-magazina",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайн-проект интерьера магазина",
+              "price": 1000,
+              "priceMeasure": "m",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера магазина",
+            "numberId": 262,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-magazina"
+          }, {
+            "id": "98d6a33b-47e6-4d0d-9f73-4855503fb21c",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fdizajn-proekt-inter_era-restorana",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайн-проект интерьера ресторана",
+              "price": 1000,
+              "priceMeasure": "m",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайн-проект интерьера ресторана",
+            "numberId": 264,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fdizajn-proekt-interera-restorana"
+          }, {
+            "id": "9be9b820-8a3f-41ce-983a-1661aa2d60ca",
+            "rubricId": "\u002Fdizajnery\u002Fdizajner-inter_erov\u002Fpodbor-materialov-i-mebeli",
+            "specializationId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "attrs": {
+              "name": "Дизайнерский подбор материалов и мебели",
+              "price": 10000,
+              "priceMeasure": "service",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fdizajnery\u002Fdizajner-inter_erov",
+            "name": "Дизайнерский подбор материалов и мебели",
+            "numberId": 265,
+            "seoId": "\u002Fdizajneryi\u002Fdizajner-intererov\u002Fpodbor-materialov-i-mebeli"
+          }]
+        }]
+      }, {
+        "id": "c08e190e-7444-4478-84db-fb0d77b475ec",
+        "rubricId": "\u002Fremont-i-stroitel_stvo",
+        "attrs": {"experience": 9},
+        "name": "Ремонт и строительство",
+        "specializations": [{
+          "id": "fa8b0339-54a2-4c40-bc59-e27efe8de446",
+          "rubricId": "\u002Fremont-i-stroitel_stvo\u002Fmebel_",
+          "attrs": {
+            "experience": 11,
+            "isAbleToDeparture": true,
+            "workingDays": ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"],
+            "description": "Изготовление мебели любой сложности."
+          },
+          "occupationId": "\u002Fremont-i-stroitel_stvo",
+          "name": "Сборка и ремонт мебели",
+          "numberId": 1651,
+          "seoId": "\u002Fremont-i-stroitelstvo\u002Fmebel",
+          "specialistName": "Сборщик мебели",
+          "services": [{
+            "id": "d6bed6ec-446c-4c2e-b5a3-01af4ee1d12e",
+            "rubricId": "\u002Fremont-i-stroitel_stvo\u002Fmebel_\u002Fperetajka-mebeli",
+            "specializationId": "\u002Fremont-i-stroitel_stvo\u002Fmebel_",
+            "attrs": {
+              "name": "Перетяжка мебели",
+              "price": 10000,
+              "priceMeasure": "service",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fremont-i-stroitel_stvo\u002Fmebel_",
+            "name": "Перетяжка мебели",
+            "numberId": 1659,
+            "seoId": "\u002Fremont-i-stroitelstvo\u002Fmebel\u002Fperetyazhka-mebeli"
+          }, {
+            "id": "229fe725-33e6-4fd9-8d76-7171ea5f8ebc",
+            "rubricId": "\u002Fremont-i-stroitel_stvo\u002Fmebel_\u002Fizgotovlenie-mebeli",
+            "specializationId": "\u002Fremont-i-stroitel_stvo\u002Fmebel_",
+            "attrs": {
+              "name": "Изготовление мебели",
+              "price": 10000,
+              "priceMeasure": "service",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016af06baa97329c62171f5fc49d70", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1540809\u002F2a0000016af06babd09814b0449271abcd0c", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1817195\u002F2a0000016af06bc3bfb9d673938a54f6038e"],
+              "violations": {"common": [], "photo": {}},
+              "features": {"tags": ["tag_izgotovlenie_mebeli"]}
+            },
+            "parentId": "\u002Fremont-i-stroitel_stvo\u002Fmebel_",
+            "name": "Изготовление мебели",
+            "numberId": 1654,
+            "seoId": "\u002Fremont-i-stroitelstvo\u002Fmebel\u002Fizgotovlenie-mebeli"
+          }]
+        }, {
+          "id": "7710f7d9-bd8f-4817-9d07-3bd188a037b6",
+          "rubricId": "\u002Fremont-i-stroitel_stvo\u002Fdrugoe",
+          "attrs": {
+            "experience": 11,
+            "isAbleToDeparture": true,
+            "workingDays": ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"],
+            "workStartTime": 8,
+            "workFinishTime": 23,
+            "description": "Последние 10 лет работаю в сфере конструирования и изготовления различных изделий из металла, стекла и дерева. "
+          },
+          "occupationId": "\u002Fremont-i-stroitel_stvo",
+          "name": "Другое",
+          "numberId": 1466,
+          "seoId": "\u002Fremont-i-stroitelstvo\u002Fdrugoe",
+          "services": [{
+            "id": "badf9de5-d535-43a2-a130-210dfce8d8c9",
+            "rubricId": "\u002Fremont-i-stroitel_stvo\u002Fdrugoe\u002Fizgotovlenie-metallokonstrukzij",
+            "specializationId": "\u002Fremont-i-stroitel_stvo\u002Fdrugoe",
+            "attrs": {
+              "name": "Изготовление металлоконструкций",
+              "price": 10000,
+              "priceMeasure": "service",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fremont-i-stroitel_stvo\u002Fdrugoe",
+            "name": "Изготовление металлоконструкций",
+            "numberId": 1484,
+            "seoId": "\u002Fremont-i-stroitelstvo\u002Fdrugoe\u002Fizgotovlenie-metallokonstruktsij"
+          }, {
+            "id": "7e7394fa-8eb5-4279-af52-936571ba184d",
+            "rubricId": "\u002Fremont-i-stroitel_stvo\u002Fdrugoe\u002Fizgotovlenie-lestniz",
+            "specializationId": "\u002Fremont-i-stroitel_stvo\u002Fdrugoe",
+            "attrs": {
+              "description": "Оказываю услуги по проектированию, изготовлению и монтажу лестниц и ограждений. ",
+              "name": "Изготовление лестниц",
+              "price": 200000,
+              "priceMeasure": "service",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1817195\u002F2a0000016af06553318ea45c52d72a0e4a3d", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016af06554543b7a620b63aee447a1", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1384592\u002F2a0000016af0655b7b28d80e82172bc5bb3b", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1523397\u002F2a0000016af0655bdccd78fd9abdb748ce15", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016af06602850fd805fd0d8aa2180a", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1529510\u002F2a0000016af0660a3fda3c7c92cce24241fa", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a0000016af0661ed7ddf7808b7beaeafa61", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1380299\u002F2a0000016af0661dbb0be729c185e5849674"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fremont-i-stroitel_stvo\u002Fdrugoe",
+            "name": "Изготовление лестниц",
+            "numberId": 1482,
+            "seoId": "\u002Fremont-i-stroitelstvo\u002Fdrugoe\u002Fizgotovlenie-lestnits"
+          }, {
+            "id": "47584709-3891-4863-a3af-00645009eb58",
+            "rubricId": "\u002Fremont-i-stroitel_stvo\u002Fdrugoe\u002Fproektirovanie-metallokonstrukzij",
+            "specializationId": "\u002Fremont-i-stroitel_stvo\u002Fdrugoe",
+            "attrs": {
+              "name": "Проектирование металлоконструкций",
+              "price": 10000,
+              "priceMeasure": "service",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fremont-i-stroitel_stvo\u002Fdrugoe",
+            "name": "Проектирование металлоконструкций",
+            "numberId": 1520,
+            "seoId": "\u002Fremont-i-stroitelstvo\u002Fdrugoe\u002Fproektirovanie-metallokonstruktsij"
+          }, {
+            "id": "c85dd7e9-09c6-476a-852d-4bc67ac8124b",
+            "rubricId": null,
+            "specializationId": "\u002Fremont-i-stroitel_stvo\u002Fdrugoe",
+            "attrs": {
+              "description": "Стальные, стеклянные и любые другие перегородки на ваш вкус. ",
+              "name": "Изготовление перегородок",
+              "price": 50000,
+              "priceMeasure": "service",
+              "photoUrls": ["https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1449941\u002F2a0000016af06ac522e2f6ad02007b234be3", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F880658\u002F2a0000016af06ac64284b36245929befd197", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F472106\u002F2a0000016af06ac8ab735ce8d73975787a84", "https:\u002F\u002Favatars.mds.yandex.net:443\u002Fget-ydo\u002F1540809\u002F2a0000016af06ac9510180c1898eeaa33937"],
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Fremont-i-stroitel_stvo\u002Fdrugoe",
+            "name": "Изготовление перегородок"
+          }]
+        }]
+      }, {
+        "id": "84cc8609-c345-4cf9-be16-e3891fe6269e",
+        "rubricId": "\u002Forganizazia-meropriatij",
+        "attrs": {"experience": 4},
+        "name": "Организация мероприятий",
+        "specializations": [{
+          "id": "1f458d21-8a59-4330-aa53-c4ca56925889",
+          "rubricId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc",
+          "attrs": {
+            "experience": 4,
+            "isAbleToDeparture": true,
+            "workingDays": ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"],
+            "description": "Праздники различного уровня."
+          },
+          "occupationId": "\u002Forganizazia-meropriatij",
+          "name": "Организация праздников под ключ",
+          "numberId": 651,
+          "seoId": "\u002Forganizatsiya-meropriyatij\u002Fprazdnik-pod-klyuch",
+          "specialistName": "Event-менеджер",
+          "services": [{
+            "id": "eeb5438f-1da2-4bb5-a76a-8b10d3e7ec25",
+            "rubricId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc\u002Fden_-rojdenia-i-ubilej",
+            "specializationId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc",
+            "attrs": {
+              "name": "Организация дня рождения или юбилея",
+              "price": 50000,
+              "priceMeasure": "service",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc",
+            "name": "Организация дня рождения или юбилея",
+            "numberId": 654,
+            "seoId": "\u002Forganizatsiya-meropriyatij\u002Fprazdnik-pod-klyuch\u002Fden-rozhdeniya-i-yubilej"
+          }, {
+            "id": "9280f676-211e-42ef-a53b-2831486ccd53",
+            "rubricId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc\u002Fsvad_ba",
+            "specializationId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc",
+            "attrs": {
+              "name": "Организация свадьбы",
+              "price": 100000,
+              "priceMeasure": "service",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc",
+            "name": "Организация свадьбы",
+            "numberId": 661,
+            "seoId": "\u002Forganizatsiya-meropriyatij\u002Fprazdnik-pod-klyuch\u002Fsvadba"
+          }, {
+            "id": "89fa0d75-5d11-4869-a7a4-986db126b43e",
+            "rubricId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc\u002Fprazdnik-dla-podrostkov",
+            "specializationId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc",
+            "attrs": {
+              "name": "Организация праздника для подростков",
+              "price": 50000,
+              "priceMeasure": "service",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc",
+            "name": "Организация праздника для подростков",
+            "numberId": 660,
+            "seoId": "\u002Forganizatsiya-meropriyatij\u002Fprazdnik-pod-klyuch\u002Fprazdnik-dlya-podrostkov"
+          }, {
+            "id": "c29eb323-7660-4ee1-b000-8fb9ae5967f9",
+            "rubricId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc\u002Fprazdnik-dla-vzroslyh",
+            "specializationId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc",
+            "attrs": {
+              "name": "Организация праздника для взрослых",
+              "price": 50000,
+              "priceMeasure": "service",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc",
+            "name": "Организация праздника для взрослых",
+            "numberId": 657,
+            "seoId": "\u002Forganizatsiya-meropriyatij\u002Fprazdnik-pod-klyuch\u002Fprazdnik-dlya-vzroslyih"
+          }, {
+            "id": "f41587f8-f88c-40d5-a772-1f3cd4136758",
+            "rubricId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc\u002Fvypusknoj",
+            "specializationId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc",
+            "attrs": {
+              "name": "Организация выпускного",
+              "price": 50000,
+              "priceMeasure": "service",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc",
+            "name": "Организация выпускного",
+            "numberId": 652,
+            "seoId": "\u002Forganizatsiya-meropriyatij\u002Fprazdnik-pod-klyuch\u002Fvyipusknoj"
+          }, {
+            "id": "1cd95e86-97d2-4d90-b24b-bb78e250fd2f",
+            "rubricId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc\u002Fdevicnik",
+            "specializationId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc",
+            "attrs": {
+              "name": "Организация девичника",
+              "price": 50000,
+              "priceMeasure": "service",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc",
+            "name": "Организация девичника",
+            "numberId": 653,
+            "seoId": "\u002Forganizatsiya-meropriyatij\u002Fprazdnik-pod-klyuch\u002Fdevichnik"
+          }, {
+            "id": "5f8cc9b0-59d6-4bdd-81cc-0f4dcd20abb7",
+            "rubricId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc\u002Fkorporativ",
+            "specializationId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc",
+            "attrs": {
+              "name": "Организация корпоратива",
+              "price": 50000,
+              "priceMeasure": "service",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc",
+            "name": "Организация корпоратива",
+            "numberId": 655,
+            "seoId": "\u002Forganizatsiya-meropriyatij\u002Fprazdnik-pod-klyuch\u002Fkorporativ"
+          }, {
+            "id": "d03899a7-0822-4298-8441-56702859e7f5",
+            "rubricId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc\u002Fmal_cisnik",
+            "specializationId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc",
+            "attrs": {
+              "name": "Организация мальчишника",
+              "price": 50000,
+              "priceMeasure": "service",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Forganizazia-meropriatij\u002Fprazdnik-pod-kluc",
+            "name": "Организация мальчишника",
+            "numberId": 656,
+            "seoId": "\u002Forganizatsiya-meropriyatij\u002Fprazdnik-pod-klyuch\u002Fmalchishnik"
+          }]
+        }, {
+          "id": "e18a51b5-208f-4b17-84ba-2b20c2d9879c",
+          "rubricId": "\u002Forganizazia-meropriatij\u002Fkejtering",
+          "attrs": {
+            "experience": 4,
+            "isAddressAllowed": true,
+            "workingDays": ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"],
+            "workStartTime": 8,
+            "workFinishTime": 23,
+            "description": "Опыт работы на всех крупных фестивалях Санкт-Петербурга. Организация корпоративных и праздничных фуршетов и банкетов. "
+          },
+          "occupationId": "\u002Forganizazia-meropriatij",
+          "name": "Кейтеринг на мероприятия",
+          "numberId": 631,
+          "seoId": "\u002Forganizatsiya-meropriyatij\u002Fkejtering",
+          "specialistName": "Повар",
+          "services": [{
+            "id": "e6463de0-6a0e-4ca6-9a37-85f6dcf331e8",
+            "rubricId": "\u002Forganizazia-meropriatij\u002Fkejtering\u002Fbanket",
+            "specializationId": "\u002Forganizazia-meropriatij\u002Fkejtering",
+            "attrs": {
+              "name": "Организация банкета",
+              "price": 60000,
+              "priceMeasure": "service",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Forganizazia-meropriatij\u002Fkejtering",
+            "name": "Организация банкета",
+            "numberId": 632,
+            "seoId": "\u002Forganizatsiya-meropriyatij\u002Fkejtering\u002Fbanket"
+          }, {
+            "id": "0e80730c-d477-4181-b211-ea765159da18",
+            "rubricId": "\u002Forganizazia-meropriatij\u002Fkejtering\u002Ffurset",
+            "specializationId": "\u002Forganizazia-meropriatij\u002Fkejtering",
+            "attrs": {
+              "name": "Организация фуршета",
+              "price": 30000,
+              "priceMeasure": "service",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Forganizazia-meropriatij\u002Fkejtering",
+            "name": "Организация фуршета",
+            "numberId": 640,
+            "seoId": "\u002Forganizatsiya-meropriyatij\u002Fkejtering\u002Ffurshet"
+          }, {
+            "id": "b2977892-507a-4878-9387-20f8029b2407",
+            "rubricId": "\u002Forganizazia-meropriatij\u002Fkejtering\u002Fkofe-brejk",
+            "specializationId": "\u002Forganizazia-meropriatij\u002Fkejtering",
+            "attrs": {
+              "name": "Организация кофе-брейка",
+              "price": 30000,
+              "priceMeasure": "service",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Forganizazia-meropriatij\u002Fkejtering",
+            "name": "Организация кофе-брейка",
+            "numberId": 637,
+            "seoId": "\u002Forganizatsiya-meropriyatij\u002Fkejtering\u002Fkofebrejk"
+          }, {
+            "id": "6e1dcc88-9df3-47f0-a7a7-96c505a5bcfc",
+            "rubricId": "\u002Forganizazia-meropriatij\u002Fkejtering\u002Fmobil_nyj-furset",
+            "specializationId": "\u002Forganizazia-meropriatij\u002Fkejtering",
+            "attrs": {
+              "name": "Организация мобильного фуршета",
+              "price": 30000,
+              "priceMeasure": "service",
+              "violations": {"common": [], "photo": {}}
+            },
+            "parentId": "\u002Forganizazia-meropriatij\u002Fkejtering",
+            "name": "Организация мобильного фуршета",
+            "numberId": 638,
+            "seoId": "\u002Forganizatsiya-meropriyatij\u002Fkejtering\u002Fmobilnyij-furshet"
+          }]
+        }]
+      }],
+      "ydoWorkerId": "7be1a0e4-a3c3-4b19-a552-3cbbc67ae84c",
+      "permalink": null,
+      "isBoosted": false,
+      "isDocDoc": false,
+      "isPartner": false,
+      "isAdvertised": false
+    }
+  }
+}
+}
